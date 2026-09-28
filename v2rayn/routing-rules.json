@@ -1,0 +1,61 @@
+[
+  {
+    "port": "443",
+    "network": "udp",
+    "outboundTag": "block",
+    "enabled": true,
+    "remarks": "UDP443阻断"
+  },
+  {
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:private"
+    ],
+    "domain": [
+      "geosite:private"
+    ],
+    "enabled": true,
+    "remarks": "局域网专用规则"
+  },
+  {
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
+    ],
+    "enabled": true,
+    "remarks": "广告拦截"
+  },
+  {
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:category-ai-!cn"
+    ],
+    "enabled": true,
+    "remarks": "AI专用规则"
+  },
+  {
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:youtube"
+    ],
+    "enabled": true,
+    "remarks": "油管专用规则"
+  },
+  {
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:cn"
+    ],
+    "domain": [
+      "geosite:cn"
+    ],
+    "enabled": true,
+    "remarks": "国内直连"
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "proxy",
+    "enabled": true,
+    "remarks": "国外代理"
+  }
+]

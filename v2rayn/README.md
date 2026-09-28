@@ -85,3 +85,19 @@ v2rayN 较新版本内置 sing-box 核心，规则集需要用 sing-box 的 rule
 ### 自定义分组
 
 想调整分组（比如把 Apple 也改成 direct，或者把某个网站单独拆出来），改 `convert_singbox_groups.py` 顶部的 `GROUPS` 字典重新运行即可，源数据始终来自 `rule/*.list`。
+
+## 完整路由规则 JSON（v2rayN 路由设置里直接整体粘贴/导入）
+
+[`v2rayn/routing-rules.json`](./routing-rules.json) 是一份可以直接整体导入 v2rayN「路由设置」的规则数组（基于 geosite/geoip，不依赖本仓库其他自定义规则集），按顺序命中：
+
+1. UDP 443 阻断（防止 QUIC 绕过代理）
+2. 局域网直连
+3. 广告域名阻断
+4. AI 服务走代理
+5. YouTube 走代理
+6. 国内 IP/域名直连
+7. 其余全部走代理
+
+获取方式：
+- 直接复制 [`v2rayn/routing-rules.json`](https://raw.githubusercontent.com/chenlee86/rules/main/v2rayn/routing-rules.json) 内容，粘贴进 v2rayN 路由设置的规则列表（支持整体导入 JSON 数组）
+- 或在路由设置里用「从 Url 导入」，直接填上面的 raw 链接
