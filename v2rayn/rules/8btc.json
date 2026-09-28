@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "8btc",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:8btc.com",
+    "domain:bystack.com",
+    "domain:chainnode.com",
+    "domain:matpool.com",
+    "domain:matpool.net"
+  ]
+}

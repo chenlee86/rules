@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Pubmatic",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ads.pubmatic.com"
+  ]
+}

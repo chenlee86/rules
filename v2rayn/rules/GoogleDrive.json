@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "GoogleDrive",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:www.googleapis.com",
+    "domain:docs.google.com",
+    "domain:drive.google.com",
+    "domain:googledrive.com",
+    "domain:googleusercontent.com"
+  ]
+}

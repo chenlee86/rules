@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "XueQiu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aiganggu.com",
+    "domain:danjuanapp.com",
+    "domain:danjuanfunds.com",
+    "domain:iganggu.com",
+    "domain:imedao.com",
+    "domain:imeigu.cn",
+    "domain:imeigu.com.cn",
+    "domain:ncfjj.com",
+    "domain:snowballfinance.com",
+    "domain:snowballsecurities.com",
+    "domain:xueqiu.com"
+  ]
+}

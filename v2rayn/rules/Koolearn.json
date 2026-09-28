@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Koolearn",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:koocdn.com",
+    "domain:koolearn.com",
+    "domain:koopass.com"
+  ]
+}

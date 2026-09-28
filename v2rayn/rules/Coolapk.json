@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Coolapk",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:coolapk.com",
+    "domain:coolapkmarket.com",
+    "domain:coolapkmarket.net"
+  ]
+}

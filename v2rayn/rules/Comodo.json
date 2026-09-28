@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Comodo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:comodo.com",
+    "domain:comodoca.com",
+    "domain:comodoca2.com",
+    "domain:comodoca3.com",
+    "domain:comodoca4.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "DangDang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dangdang.com",
+    "domain:ddimg.cn"
+  ]
+}

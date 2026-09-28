@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "WoLai",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:wol.tv",
+    "domain:wolai.com",
+    "domain:wolai.ren",
+    "domain:wostatic.cn",
+    "domain:woyun.work"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Instagram",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cdninstagram.com",
+    "domain:instagr.am",
+    "domain:instagram.com",
+    "instagram"
+  ]
+}

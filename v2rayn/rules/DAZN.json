@@ -1,0 +1,25 @@
+{
+  "type": "field",
+  "remarks": "DAZN",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:control.kochava.com",
+    "domain:d151l6v8er5bdm.cloudfront.net",
+    "domain:d1sgwhnao7452x.cloudfront.net",
+    "domain:dazn-api.com",
+    "domain:dazn.com",
+    "domain:dazndn.com",
+    "domain:dc2-vodhls-perform.secure.footprint.net",
+    "domain:dca-ll-livedazn-dznlivejp.s.llnwi.net",
+    "domain:dca-ll-voddazn-dznvodjp.s.llnwi.net",
+    "domain:dcalivedazn.akamaized.net",
+    "domain:dcblivedazn.akamaized.net",
+    "domain:indazn.com",
+    "domain:indaznlab.com",
+    "domain:intercom.io",
+    "domain:logx.optimizely.com",
+    "domain:s.yimg.jp",
+    "domain:sentry.io",
+    "voddazn"
+  ]
+}

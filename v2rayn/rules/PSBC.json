@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "PSBC",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:95580.net",
+    "domain:psbc.com",
+    "domain:psbcoa.com.cn"
+  ]
+}

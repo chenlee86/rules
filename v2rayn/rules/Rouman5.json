@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Rouman5",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:rmcdn5.xyz",
+    "domain:rmcdn6.xyz",
+    "domain:rmcdn7.xyz",
+    "domain:rouman5.com"
+  ]
+}

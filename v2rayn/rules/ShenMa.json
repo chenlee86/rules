@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "ShenMa",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:shenma-inc.com",
+    "domain:sm.cn",
+    "domain:smapi.cn",
+    "domain:uczzd.cn",
+    "domain:uczzd.com",
+    "domain:uczzd.com.cn",
+    "domain:uczzd.net",
+    "domain:xiaoshuo1-sm.com",
+    "domain:xiaoshuo2-sm.com",
+    "domain:xiaoshuo3-sm.com",
+    "domain:xiaoshuo4-sm.com",
+    "domain:xiaoshuo5-sm.com",
+    "domain:yisou.com"
+  ]
+}

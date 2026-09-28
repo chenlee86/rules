@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "myTVSUPER",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:mytvsuperlimited.hb.omtrdc.net",
+    "full:mytvsuperlimited.sc.omtrdc.net",
+    "domain:mytvsuper.com",
+    "domain:tvb.com",
+    "nowtv100",
+    "rthklive"
+  ]
+}

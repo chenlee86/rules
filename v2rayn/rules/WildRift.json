@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "WildRift",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:pvp.net",
+    "domain:riotcdn.net",
+    "domain:riotgames.com"
+  ]
+}

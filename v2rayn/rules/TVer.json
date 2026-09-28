@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "TVer",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dogatch.jp",
+    "domain:edge.api.brightcove.com",
+    "domain:gorin.jp",
+    "domain:screens-lab.jp",
+    "domain:tver.co.jp",
+    "domain:tver.jp"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Clubhouse",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:clubhouse.pubnub.com",
+    "full:clubhouseprod.s3.amazonaws.com",
+    "domain:clubhouse.com",
+    "domain:clubhouseapi.com",
+    "domain:joinclubhouse.com"
+  ]
+}

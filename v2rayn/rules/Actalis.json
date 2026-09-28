@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Actalis",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:actalis.com",
+    "domain:actalis.it"
+  ]
+}

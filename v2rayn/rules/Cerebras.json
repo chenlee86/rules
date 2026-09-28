@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Cerebras",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cerebras.ai"
+  ]
+}

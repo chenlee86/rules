@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "AppleID",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:appleid.apple.com",
+    "full:appleid.cdn-apple.com",
+    "full:gsa.apple.com",
+    "full:idmsa.apple.com"
+  ]
+}

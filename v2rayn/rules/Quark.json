@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Quark",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:myquark.cn",
+    "domain:quark.cn"
+  ]
+}

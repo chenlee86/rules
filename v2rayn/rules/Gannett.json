@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Gannett",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:gannett-cdn.com",
+    "domain:gannett.com",
+    "domain:gannettdigital.com",
+    "domain:usatoday.com",
+    "domain:usatodaynetworkservice.com"
+  ]
+}

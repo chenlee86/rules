@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "XiamiMusic",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:xiami.com",
+    "domain:xiami.fm",
+    "domain:xiami.net"
+  ]
+}

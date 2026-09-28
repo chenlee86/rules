@@ -1,0 +1,32 @@
+{
+  "type": "field",
+  "remarks": "McDonalds",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:4008-517-517.cn",
+    "domain:aboutmcdonalds.com",
+    "domain:happymeal.co.nz",
+    "domain:happymeal.com.au",
+    "domain:mcd.com",
+    "domain:mcdelivery.co.id",
+    "domain:mcdelivery.co.kr",
+    "domain:mcdelivery.com.au",
+    "domain:mcdelivery.com.my",
+    "domain:mcdelivery.com.sg",
+    "domain:mcdelivery.com.tw",
+    "domain:mcdindonesia.com",
+    "domain:mcdonalds.ca",
+    "domain:mcdonalds.co.uk",
+    "domain:mcdonalds.com",
+    "domain:mcdonalds.com.cn",
+    "domain:mcdonalds.com.hk",
+    "domain:mcdonalds.hk",
+    "domain:mcdonalds.it",
+    "domain:mcdonalds.no",
+    "domain:mcdonalds.se",
+    "domain:mcdonaldsarabia.com",
+    "domain:mcdonaldsparties.co.nz",
+    "domain:mcdonaldsparties.com.au",
+    "domain:xn--qhrx81fxh2a.xn--55qx5d.hk"
+  ]
+}

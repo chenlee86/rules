@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "Notion",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:http-inputs-notion.splunkcloud.com",
+    "domain:notion-static.com",
+    "domain:notion.com",
+    "domain:notion.new",
+    "domain:notion.site",
+    "domain:notion.so"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Fedora",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fedoraforum.org",
+    "domain:fedoramagazine.org",
+    "domain:fedorapeople.org",
+    "domain:fedoraproject.org",
+    "domain:getfedora.org"
+  ]
+}

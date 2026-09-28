@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "GuiGuDongLi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ciweekforum.com",
+    "domain:enet.com.cn",
+    "domain:enet16.cn",
+    "domain:enet16.com",
+    "domain:enet16.com.cn",
+    "domain:enet16.net",
+    "domain:enet369.com",
+    "domain:ezhu.cn",
+    "domain:ezhu.com",
+    "domain:mydor.com",
+    "domain:xingzhiheyi.com"
+  ]
+}

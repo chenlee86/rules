@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "HaiNanHangKong",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:10044.cn",
+    "domain:hainanairlines.com",
+    "domain:hnacargo.com",
+    "domain:hnair.com",
+    "domain:hnair.net",
+    "hnagroup"
+  ]
+}

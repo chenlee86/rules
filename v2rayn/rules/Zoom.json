@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Zoom",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:zoom.com",
+    "domain:zoom.us",
+    "domain:zoomgov.com"
+  ]
+}

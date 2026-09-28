@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Accuweather",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:accuweather.com"
+  ]
+}

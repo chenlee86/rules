@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "3Type",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:3type.cn"
+  ]
+}

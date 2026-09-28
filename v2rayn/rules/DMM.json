@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "DMM",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:akabeesoft2.com",
+    "domain:akabeesoft3.com",
+    "domain:akatsukiworks.com",
+    "domain:alicesoft.com",
+    "domain:api-p.videomarket.jp",
+    "domain:cosmiccute.com",
+    "domain:ddo.jp",
+    "domain:dmm-extension.com",
+    "domain:dmm.co.jp",
+    "domain:dmm.com",
+    "domain:dmm.hk",
+    "domain:dmmapis.com",
+    "domain:dmmrex.com",
+    "domain:hibiki-site.com",
+    "domain:minori.ph",
+    "domain:navismithapis-cdn.com",
+    "domain:tenco.cc",
+    "domain:wheel-soft.com"
+  ],
+  "ip": [
+    "125.6.189.7/32",
+    "203.104.209.7/32"
+  ]
+}

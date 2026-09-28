@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Aerogard",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aerogard.com.au",
+    "domain:aerogard.com.cn",
+    "domain:aerogardcn.com"
+  ]
+}

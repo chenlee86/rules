@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "EncoreTVB",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:bcbolt446c5271-a.akamaihd.net",
+    "full:content.jwplatform.com",
+    "full:edge.api.brightcove.com",
+    "full:videos-f.jwpsrv.com",
+    "domain:encoretvb.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "MeWatch",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:mewatch.sg"
+  ]
+}

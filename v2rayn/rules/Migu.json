@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Migu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cmvideo.cn",
+    "domain:migu.cn",
+    "domain:miguvideo.com"
+  ]
+}

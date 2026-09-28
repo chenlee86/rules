@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Cavporn",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cavporn.com",
+    "domain:cavporn.github.io"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "AmazonTrust",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:amazontrust.com",
+    "domain:awstrust.com",
+    "domain:ss2.us"
+  ]
+}

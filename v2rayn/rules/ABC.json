@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "ABC",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:95599.cn",
+    "domain:abchina.com",
+    "domain:bscabank.com",
+    "domain:openaboc.cn",
+    "domain:openaboc.com",
+    "domain:openaboc.com.cn"
+  ]
+}

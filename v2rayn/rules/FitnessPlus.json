@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "FitnessPlus",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:amp-api.fitness.apple.com",
+    "full:hls-svod.itunes.apple.com"
+  ]
+}

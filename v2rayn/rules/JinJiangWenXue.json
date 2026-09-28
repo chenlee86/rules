@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "JinJiangWenXue",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:chaba123.com",
+    "domain:jjwxc.cn",
+    "domain:jjwxc.com",
+    "domain:jjwxc.net",
+    "domain:jjwxc.org",
+    "domain:jjycw.net",
+    "domain:robook.com"
+  ]
+}

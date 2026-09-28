@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "TeraBox",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:terabox.com",
+    "domain:teraboxcdn.com"
+  ]
+}

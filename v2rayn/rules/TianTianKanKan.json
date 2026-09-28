@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "TianTianKanKan",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ibangtiao.com",
+    "domain:kankanpro.cn",
+    "domain:kkstudy.cn",
+    "domain:taogepian.com"
+  ]
+}

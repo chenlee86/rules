@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "AcFun",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:acfun.cn",
+    "domain:acfun.com",
+    "domain:acfun.tv",
+    "domain:aixifan.com"
+  ]
+}

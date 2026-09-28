@@ -1,0 +1,25 @@
+{
+  "type": "field",
+  "remarks": "MingLueZhaoHui",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:3wnet.cn",
+    "domain:admonitor.org",
+    "domain:grpindex.com",
+    "domain:miaozhen.cn",
+    "domain:miaozhen.com",
+    "domain:mlt.pub",
+    "domain:momentad.com",
+    "domain:mzfile.com",
+    "domain:mzhen.cn",
+    "domain:mzhen.com",
+    "domain:mzsvn.com",
+    "domain:stfile.com",
+    "domain:supertool.net.cn",
+    "domain:touchjoin.com",
+    "domain:touchjoint.com",
+    "domain:withdata.cn",
+    "domain:withwinds.com",
+    "domain:xueto.com"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "field",
+  "remarks": "DiscoveryPlus",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:discovery-us.conax.cloud",
+    "full:dplus-northamerica-cloudfront-gcs.prod-vod.h264.io",
+    "full:dplus-northamerica.media-edge.prod-vod.h264.io",
+    "domain:disco-api.com",
+    "domain:discovery.com",
+    "domain:discoveryplus.co.uk",
+    "domain:discoveryplus.com",
+    "domain:discoveryplus.in",
+    "domain:dnitv.com",
+    "domain:fwmrm.net",
+    "domain:getblueshift.com",
+    "domain:litix.io",
+    "domain:mobile-collector.newrelic.com",
+    "domain:uplynk.com",
+    "discovery.uplynk.com"
+  ]
+}

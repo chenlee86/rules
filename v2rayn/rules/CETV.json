@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "CETV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:centv.cn",
+    "domain:centv.net.cn",
+    "domain:cetv.cn"
+  ]
+}

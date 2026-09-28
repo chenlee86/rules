@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "ZhiYunZhong",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:2taobao2jd.com",
+    "domain:appgrub.com",
+    "domain:cloudau.cn",
+    "domain:iappad.com",
+    "domain:iapprank.com",
+    "domain:igo52.com",
+    "domain:optaim.cn",
+    "domain:optaim.com"
+  ]
+}

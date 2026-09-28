@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "PikPak",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dlandroid.rcv.sandai.net",
+    "domain:hub5idx.v6.shub.sandai.net",
+    "domain:hub5pn.wap.sandai.net",
+    "domain:hub5pnc.sandai.net",
+    "domain:hub5pr.v6.phub.sandai.net",
+    "domain:hubciddata.sandai.net",
+    "mypikpak"
+  ]
+}

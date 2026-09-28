@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Chromecast",
+  "outboundTag": "proxy",
+  "domain": [
+    "pa.google"
+  ]
+}

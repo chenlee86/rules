@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Mailru",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:imgsmail.ru",
+    "domain:mail.ru",
+    "domain:mycdn.me"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "AnTianKeJi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:antiy.cn",
+    "domain:antiy.com",
+    "domain:antiy.net.cn",
+    "domain:antiycloud.com",
+    "domain:avlinsight.com",
+    "domain:avlsec.com",
+    "domain:avlyun.cn",
+    "domain:avlyun.com",
+    "domain:avlyun.net",
+    "domain:avlyun.org",
+    "domain:cloud-backup.com.cn"
+  ]
+}

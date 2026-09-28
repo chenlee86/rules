@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "DianCeWangKe",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:pgyer.cc",
+    "domain:pgyer.com",
+    "domain:pgyer.im",
+    "domain:qcers.com",
+    "domain:qcers.net",
+    "domain:testin.im",
+    "domain:tracup.com",
+    "domain:xcxwo.com"
+  ]
+}

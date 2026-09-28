@@ -1,0 +1,19 @@
+{
+  "type": "field",
+  "remarks": "Mail",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:apple.imap.mail.yahoo.com",
+    "full:apple.smtp.mail.yahoo.com",
+    "full:imap-mail.outlook.com",
+    "full:imap.gmail.com",
+    "full:outlook.office365.com",
+    "full:pop.gmail.com",
+    "full:smtp-mail.outlook.com",
+    "full:smtp.gmail.com",
+    "full:smtp.office365.com",
+    "domain:imap.yandex.com",
+    "domain:m.hotmail.com",
+    "domain:smtp.yandex.com"
+  ]
+}

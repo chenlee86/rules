@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "KuKeMusic",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:kuke.com",
+    "domain:kukey.com.cn",
+    "domain:naxos.cn"
+  ]
+}

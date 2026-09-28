@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "PandoraTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:kmplayer.com",
+    "domain:pandora.tv"
+  ]
+}

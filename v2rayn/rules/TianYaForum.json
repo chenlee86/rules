@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "TianYaForum",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:gz12301.com",
+    "domain:hainan.com",
+    "domain:hainan.net",
+    "domain:hi114.cn",
+    "domain:hibusiness.com",
+    "domain:hifortune.net",
+    "domain:laibafile.cn",
+    "domain:tianya.cn",
+    "domain:tianya.com.cn",
+    "domain:tianyablog.com",
+    "domain:tianyaclub.com",
+    "domain:tianyaui.com",
+    "domain:tysurl.com"
+  ]
+}

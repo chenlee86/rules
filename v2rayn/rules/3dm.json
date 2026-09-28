@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "3dm",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:3dmgame.com"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "GlobalSign",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:globalsign-media.com",
+    "domain:globalsign.be",
+    "domain:globalsign.ch",
+    "domain:globalsign.co.uk",
+    "domain:globalsign.com",
+    "domain:globalsign.com.au",
+    "domain:globalsign.com.hk",
+    "domain:globalsign.com.sg",
+    "domain:globalsign.es",
+    "domain:globalsign.eu",
+    "domain:globalsign.fr",
+    "domain:globalsign.net",
+    "domain:globalsign.nl"
+  ]
+}

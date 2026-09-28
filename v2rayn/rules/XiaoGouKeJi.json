@@ -1,0 +1,24 @@
+{
+  "type": "field",
+  "remarks": "XiaoGouKeJi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:8moom.com",
+    "domain:moomv.com",
+    "domain:puppy888.com",
+    "domain:xgdq.com",
+    "domain:xgdqsn.com",
+    "domain:xiaogou111.com",
+    "domain:xiaogou222.com",
+    "domain:xiaogou333.com",
+    "domain:xiaogou444.com",
+    "domain:xiaogou555.com",
+    "domain:xiaogou666.com",
+    "domain:xiaogou777.com",
+    "domain:xiaogou888.com",
+    "domain:xiaogou999.com",
+    "domain:xiaogouds.com",
+    "domain:xiaogouzhineng.com",
+    "domain:zhongyangweixiu.com"
+  ]
+}

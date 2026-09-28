@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "MicrosoftEdge",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:edge.activity.windows.com",
+    "full:edge.microsoft.com",
+    "full:iecvlist.microsoft.com",
+    "full:msedge.api.cdp.microsoft.com"
+  ]
+}

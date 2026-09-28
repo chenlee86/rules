@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "KKBOX",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:kfs.io",
+    "domain:kk.stream",
+    "domain:kkbox-prime.com",
+    "domain:kkbox.com",
+    "domain:kkbox.com.tw",
+    "domain:kktix.com",
+    "domain:kktv.com.tw",
+    "domain:kktv.me",
+    "domain:theater-kktv.cdn.hinet.net"
+  ]
+}

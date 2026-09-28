@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Hkgolden",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hkgolden.com",
+    "domain:hkgolden.media"
+  ]
+}

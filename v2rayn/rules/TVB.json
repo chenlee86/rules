@@ -1,0 +1,28 @@
+{
+  "type": "field",
+  "remarks": "TVB",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:bcbolt446c5271-a.akamaihd.net",
+    "full:edge.api.brightcove.com",
+    "full:tvbtracking.azurewebsites.net",
+    "domain:bigbigchannel.com.hk",
+    "domain:bigbigshop.com",
+    "domain:content.jwplatform.com",
+    "domain:encoretvb.com",
+    "domain:mytvsuper.com",
+    "domain:mytvsuperlimited.hb.omtrdc.net",
+    "domain:mytvsuperlimited.sc.omtrdc.net",
+    "domain:tvb.com",
+    "domain:tvb.com.au",
+    "domain:tvbanywhere.com",
+    "domain:tvbanywhere.com.sg",
+    "domain:tvbc.com.cn",
+    "domain:tvbeventpower.com.hk",
+    "domain:tvbusa.com",
+    "domain:tvbweekly.com",
+    "domain:tvmedia.net.au",
+    "domain:videos-f.jwpsrv.com",
+    "domain:youboranqs01.com"
+  ]
+}

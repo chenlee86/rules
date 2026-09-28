@@ -1,0 +1,21 @@
+{
+  "type": "field",
+  "remarks": "DigiCert",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dcocsp.cn",
+    "domain:digicert-cn.com",
+    "domain:digicert-validation.com",
+    "domain:digicert.cn",
+    "domain:digicert.com",
+    "domain:digitalcertvalidation.com",
+    "domain:freessl.com",
+    "domain:geotrust.com",
+    "domain:public-trust.com",
+    "domain:quovadisglobal.com",
+    "domain:rapidssl.com",
+    "domain:thawte.com",
+    "domain:thawte.de",
+    "domain:thawte.fr"
+  ]
+}

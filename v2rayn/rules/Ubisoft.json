@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Ubisoft",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:uplaypc-s-ubisoft.cdn.ubi.com"
+  ]
+}

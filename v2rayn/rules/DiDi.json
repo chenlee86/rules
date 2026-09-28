@@ -1,0 +1,32 @@
+{
+  "type": "field",
+  "remarks": "DiDi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:apptaxi.com.cn",
+    "domain:cxyule.com",
+    "domain:didi-food.com",
+    "domain:didi.cn",
+    "domain:didi.xin",
+    "domain:didialift.com",
+    "domain:didiapp.net.cn",
+    "domain:didiaustralia.blog",
+    "domain:didichuxing.com",
+    "domain:didiglobal.com",
+    "domain:didimobility.co.jp",
+    "domain:didimobility.com",
+    "domain:didiopenapi.com",
+    "domain:didiqiche.com",
+    "domain:didistatic.com",
+    "domain:diditaxi.com",
+    "domain:diditaxi.com.cn",
+    "domain:didiwuxian.com",
+    "domain:didiyun.com",
+    "domain:didiyun.org",
+    "domain:didiyunapi.com",
+    "domain:juyanwenjuan.com",
+    "domain:udache.com",
+    "domain:xiaojuchefu.cn",
+    "domain:xiaojukeji.com"
+  ]
+}

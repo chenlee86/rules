@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "FindMy",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:fmfmobile.icloud.com",
+    "full:fmipmobile.icloud.com",
+    "full:statici.icloud.com"
+  ]
+}

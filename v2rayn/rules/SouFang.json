@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "SouFang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fang.com",
+    "domain:hkproperty.com",
+    "domain:houselight.cn",
+    "domain:nree.cn",
+    "domain:soufun.com",
+    "domain:soufun.com.cn",
+    "domain:soufunimg.com",
+    "domain:txsf.com",
+    "domain:villachina.com",
+    "domain:villachina.com.cn"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "OuPeng",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:adbxb.cn",
+    "domain:adbxb.com",
+    "domain:opfed.com",
+    "domain:opthink.cn",
+    "domain:oupeng.com",
+    "domain:oupeng.net.cn",
+    "domain:oupeng9.com",
+    "domain:oupengcloud.cn",
+    "domain:oupengcloud.net"
+  ]
+}

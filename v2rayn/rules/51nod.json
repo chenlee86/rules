@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "51nod",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:51nod.com"
+  ]
+}

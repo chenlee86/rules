@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Pandora",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:p-cdn.us",
+    "domain:pandora.com"
+  ]
+}

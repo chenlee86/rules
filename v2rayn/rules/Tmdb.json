@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Tmdb",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:themoviedb.org",
+    "domain:tmdb.org"
+  ]
+}

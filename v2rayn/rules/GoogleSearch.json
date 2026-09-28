@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "GoogleSearch",
+  "outboundTag": "proxy",
+  "domain": [
+    "www.google."
+  ]
+}

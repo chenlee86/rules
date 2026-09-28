@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Scaleflex",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cloudimage.io",
+    "domain:cloudimg.io",
+    "domain:scaleflex.com"
+  ]
+}

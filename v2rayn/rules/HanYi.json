@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "HanYi",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:hellofontpreview.oss-cn-beijing.aliyuncs.com",
+    "full:hellowebfonts.oss-cn-beijing.aliyuncs.com",
+    "domain:fontstar.com.cn",
+    "domain:fontstudio.cn",
+    "domain:hanyi.com",
+    "domain:hanyi.com.cn",
+    "domain:hellowebfont.com",
+    "domain:ifont.cn",
+    "domain:joytype.com"
+  ]
+}

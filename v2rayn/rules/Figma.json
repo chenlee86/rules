@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Figma",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:figma.com"
+  ]
+}

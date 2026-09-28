@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "iCloudPrivateRelay",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:mask-api.fe.apple-dns.net",
+    "full:mask-api.icloud.com",
+    "full:mask-t.apple-dns.net",
+    "full:mask.apple-dns.net",
+    "domain:mask-h2.icloud.com",
+    "domain:mask.icloud.com"
+  ]
+}

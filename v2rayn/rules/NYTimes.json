@@ -1,0 +1,23 @@
+{
+  "type": "field",
+  "remarks": "NYTimes",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:d1f1eryiqyjs0r.cloudfront.net",
+    "domain:d3lar09xbwlsge.cloudfront.net",
+    "domain:d3q1qj9jzsu8nw.cloudfront.net",
+    "domain:dc8xl0ndzn2cb.cloudfront.net",
+    "domain:nyt.com",
+    "domain:nyt.net",
+    "domain:nytchina.com",
+    "domain:nytcn.me",
+    "domain:nytco.com",
+    "domain:nyti.ms",
+    "domain:nytimes.com",
+    "domain:nytimg.com",
+    "domain:nytlog.com",
+    "domain:nytstyle.com",
+    "domain:timestalks.com",
+    "domain:tynt.com"
+  ]
+}

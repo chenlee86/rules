@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "DingTalk",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ddurl.to",
+    "domain:dg-work.cn",
+    "domain:dingding.xin",
+    "domain:dingtalk.cn",
+    "domain:dingtalk.com",
+    "domain:dingtalk.com.cn",
+    "domain:dingtalk.net",
+    "domain:dingtalkapps.com",
+    "domain:laiwang.com",
+    "domain:lwurl.to",
+    "domain:realapp.xin"
+  ]
+}

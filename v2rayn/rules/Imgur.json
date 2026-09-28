@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Imgur",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:imgur.com",
+    "domain:imgurinc.com"
+  ]
+}

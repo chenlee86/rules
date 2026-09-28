@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Javdb",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:javdb.com",
+    "domain:jdbimgs.com",
+    "domain:jdbstatic.com"
+  ]
+}

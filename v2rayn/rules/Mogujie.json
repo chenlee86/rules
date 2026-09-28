@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "Mogujie",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:juangua.com",
+    "domain:linkeye.net",
+    "domain:meili-inc.com",
+    "domain:mogu.com",
+    "domain:mogucdn.com",
+    "domain:mogujie.com",
+    "domain:mogujielive.com",
+    "domain:styledata.cn",
+    "domain:uniny.com",
+    "domain:xdgogogo.com"
+  ]
+}

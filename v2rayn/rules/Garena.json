@@ -1,0 +1,22 @@
+{
+  "type": "field",
+  "remarks": "Garena",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:avatargarenanow-a.akamaihd.net",
+    "domain:cdngarenanow-a.akamaihd.net",
+    "domain:dlmobilegarena-a.akamaihd.net",
+    "domain:garena.co.id",
+    "domain:garena.co.th",
+    "domain:garena.com",
+    "domain:garena.live",
+    "domain:garena.my",
+    "domain:garena.ph",
+    "domain:garena.sg",
+    "domain:garena.tv",
+    "domain:garena.tw",
+    "domain:garena.vn",
+    "domain:garenanow.com",
+    "domain:seagroup.com"
+  ]
+}

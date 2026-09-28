@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "My5",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:d349g9zuie06uo.cloudfront.net",
+    "domain:channel5.com",
+    "domain:my5.tv"
+  ]
+}

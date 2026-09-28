@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "iTalkBB",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:api.tv.colnv.com",
+    "domain:italkbb.com",
+    "domain:italkbbtv.com"
+  ]
+}

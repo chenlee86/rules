@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Agora",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:agora.io",
+    "domain:agoraio.cn",
+    "domain:agoralab.co"
+  ]
+}

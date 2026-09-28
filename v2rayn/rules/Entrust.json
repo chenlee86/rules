@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Entrust",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:affirmtrust.com",
+    "domain:atos.net",
+    "domain:certificat2.com",
+    "domain:entrust.net",
+    "domain:entrustdatacard.com",
+    "domain:myatos.net",
+    "domain:trendmicro.com"
+  ]
+}

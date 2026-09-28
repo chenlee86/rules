@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "TestFlight",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:beta.apple.com",
+    "full:testflight.apple.com",
+    "testflight"
+  ]
+}

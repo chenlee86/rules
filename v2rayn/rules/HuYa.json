@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "HuYa",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:huya.com",
+    "domain:huyagame.cn",
+    "domain:peiwanlu.com",
+    "domain:snapplay.com"
+  ]
+}

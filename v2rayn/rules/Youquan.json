@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "Youquan",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aitcfw.com",
+    "domain:aizgtc.com",
+    "domain:hangzhouyq.cn",
+    "domain:hangzhouyq.com",
+    "domain:zgxytc.com",
+    "domain:zgzsa.com",
+    "domain:zhonshian.cn",
+    "domain:zhonshian.com",
+    "domain:zhonshian.com.cn",
+    "domain:zjzsa.com"
+  ]
+}

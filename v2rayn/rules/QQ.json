@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "QQ",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:mqqurl.com",
+    "domain:qlogo.cn",
+    "domain:qq.com",
+    "domain:qq.com.cn",
+    "domain:qqmail.com",
+    "domain:qqopenapp.com"
+  ]
+}

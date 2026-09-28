@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Shanling",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:onixhiend.com",
+    "domain:shanling.com"
+  ]
+}

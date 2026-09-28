@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Android",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:aida.googleapis.com"
+  ]
+}

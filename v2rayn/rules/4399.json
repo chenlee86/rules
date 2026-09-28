@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "4399",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:4399.cn",
+    "domain:4399.com",
+    "domain:4399.net",
+    "domain:4399api.com",
+    "domain:4399dmw.com",
+    "domain:4399pk.com",
+    "domain:4399sj.com",
+    "domain:5054399.com",
+    "domain:edu4399.com",
+    "domain:funnycore.com",
+    "domain:img4399.com",
+    "domain:qq163.com",
+    "domain:qq163.net"
+  ]
+}

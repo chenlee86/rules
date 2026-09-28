@@ -1,5 +1,8 @@
 
 # 🔔[个人网站](https://yfamilys.com)
+
+> 本仓库 Fork 自 [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules)，与上游保持同步。在此基础上新增了 [`v2rayn/`](./v2rayn) 目录，提供基于本仓库 `rule/` 分流规则转换生成的 v2rayN 路由规则，详见 [`v2rayn/README.md`](./v2rayn/README.md)。
+
 ### :rocket:小火箭配置文件及模块    
 * #### [模块直装地址](https://yfamilys.com/shadowrocket)
 * #### [小火箭配置教程](https://yfamilys.com/manual)

@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "HuluJP",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:happyon.jp",
+    "domain:hjholdings.jp",
+    "domain:hulu.jp",
+    "domain:streaks.jp",
+    "domain:yb.uncn.jp"
+  ]
+}

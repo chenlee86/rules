@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "HWTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:5itv.tv",
+    "domain:ocnttv.com"
+  ]
+}

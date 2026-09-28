@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "BoXun",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bowenpress.com",
+    "domain:boxun.com"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "BOCOM",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:95559.com.cn",
+    "domain:95559.sh.cn",
+    "domain:bankcomm.com",
+    "domain:bankcomm.com.au",
+    "domain:bankcomm.com.mo",
+    "domain:bankcomm.com.tw"
+  ]
+}

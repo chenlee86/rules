@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "YouTubeMusic",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:music.youtube.com"
+  ]
+}

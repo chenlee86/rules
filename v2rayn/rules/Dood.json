@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Dood",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dood.so",
+    "domain:dood.video",
+    "domain:doodcdn.com"
+  ]
+}

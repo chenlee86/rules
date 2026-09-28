@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Secom",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cybertrust.co.jp",
+    "domain:cybertrust.ne.jp",
+    "domain:managedpki.ne.jp",
+    "domain:secom.co.jp",
+    "domain:secomtrust.net"
+  ]
+}

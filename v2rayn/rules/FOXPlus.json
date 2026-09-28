@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "FOXPlus",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:cdn-fox-networks-group-green.akamaized.net",
+    "full:d3cv4a9a9wh0bt.cloudfront.net",
+    "full:foxsports01-i.akamaihd.net",
+    "full:foxsports02-i.akamaihd.net",
+    "full:foxsports03-i.akamaihd.net",
+    "full:staticasiafox.akamaized.net",
+    "domain:foxplus.com"
+  ]
+}

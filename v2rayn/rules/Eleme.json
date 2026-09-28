@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "Eleme",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ele.me",
+    "domain:ele.to",
+    "domain:eleme.cn",
+    "domain:eleme.com.cn",
+    "domain:eleme.io",
+    "domain:elemecdn.cn",
+    "domain:elemecdn.com",
+    "domain:elenet.me",
+    "domain:fengniaopaotui.cn",
+    "domain:fengniaozhongbao.cn",
+    "domain:xingxuanwaimai.com",
+    "domain:xyzele.com",
+    "domain:youcaishop.cn"
+  ]
+}

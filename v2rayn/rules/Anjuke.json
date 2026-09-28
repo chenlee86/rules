@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Anjuke",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aifang.com",
+    "domain:aifcdn.com",
+    "domain:ajkinclude.com",
+    "domain:anjuke.cn",
+    "domain:anjuke.com",
+    "domain:anjukestatic.com",
+    "domain:jikejia.cn"
+  ]
+}

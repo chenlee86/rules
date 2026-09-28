@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Collabora",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:collabora.co.uk",
+    "domain:collabora.com",
+    "domain:collabora.org",
+    "domain:collaboraoffice.com"
+  ]
+}

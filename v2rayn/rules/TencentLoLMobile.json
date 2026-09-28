@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "TencentLoLMobile",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:riotcdn.net",
+    "domain:riotgames.com",
+    "domain:wr.pvp.net"
+  ]
+}

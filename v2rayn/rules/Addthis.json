@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Addthis",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:addthis.com",
+    "domain:addthiscdn.com",
+    "domain:addthisedge.com"
+  ]
+}

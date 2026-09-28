@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Disqus",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:disqus.com",
+    "domain:disquscdn.com",
+    "domain:disqusservice.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "CableTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cabletv.com.hk",
+    "domain:i-cable.com"
+  ]
+}

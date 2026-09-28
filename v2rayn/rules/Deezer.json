@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Deezer",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:deezer.com",
+    "domain:dzcdn.net"
+  ]
+}

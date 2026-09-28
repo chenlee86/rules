@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "MetaAI",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:ai.developer.meta.com",
+    "full:ai.meta.com",
+    "full:aidemos.meta.com",
+    "full:developer.meta.com",
+    "full:llama.developer.meta.com",
+    "domain:atmeta.com",
+    "domain:llama.com",
+    "domain:llamameta.net",
+    "domain:meta.ai"
+  ]
+}

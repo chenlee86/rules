@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "AppleMail",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:mail.icloud.com.cn",
+    "domain:mail.me.com"
+  ]
+}

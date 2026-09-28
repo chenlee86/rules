@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "Japonx",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:japonx.com",
+    "domain:japonx.net",
+    "domain:japonx.tv",
+    "domain:japonx.vip",
+    "domain:japronx.com",
+    "domain:japronx.net",
+    "domain:japronx.tv",
+    "domain:japronx.vip",
+    "japonx",
+    "japronx"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "field",
+  "remarks": "HeMa",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:freshhema.com",
+    "domain:hemaapi.cn",
+    "domain:hemamax.com",
+    "domain:hemaopen.cn",
+    "domain:hemaos.com",
+    "domain:hemashare.cn",
+    "domain:marioall.com",
+    "domain:marioin.com",
+    "domain:mariowap.com",
+    "domain:rexpos.cn",
+    "domain:rextech.cn",
+    "domain:shyhhema.com"
+  ]
+}

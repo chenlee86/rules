@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "QuickConnect",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:account.synology.com",
+    "full:global.quickconnect.cn",
+    "full:sns.synology.com",
+    "domain:download.synology.com",
+    "domain:quickconnect.com",
+    "domain:quickconnect.to"
+  ]
+}

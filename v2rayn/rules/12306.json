@@ -1,0 +1,22 @@
+{
+  "type": "field",
+  "remarks": "12306",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:12306.cn",
+    "domain:95306.cn",
+    "domain:95572.com",
+    "domain:china-railway.com.cn",
+    "domain:china-ric.com",
+    "domain:crct.com",
+    "domain:cre.cn",
+    "domain:crecc.com.cn",
+    "domain:creip.cn",
+    "domain:crscl.com.cn",
+    "domain:gzrailway.com.cn",
+    "domain:nntlj.com",
+    "domain:peoplerail.com",
+    "domain:rails.cn",
+    "domain:tdpress.com"
+  ]
+}

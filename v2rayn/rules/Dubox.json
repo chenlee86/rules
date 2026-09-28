@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Dubox",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dubox.com",
+    "domain:duboxcdn.com"
+  ]
+}

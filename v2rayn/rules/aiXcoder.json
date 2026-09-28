@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "aiXcoder",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aixcoder.com",
+    "domain:nnthink.com"
+  ]
+}

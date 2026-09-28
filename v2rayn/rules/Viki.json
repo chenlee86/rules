@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "Viki",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:kalhlspd-a.akamaihd.net",
+    "domain:m-content-viki.s.llnwi.net",
+    "domain:twemoji.maxcdn.com",
+    "domain:viki.com",
+    "domain:viki.io",
+    "domain:viki.net",
+    "domain:vikidash.akamaized.net",
+    "domain:vikiplatform.com"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "HuaShuTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hzcnc.com",
+    "domain:hzdtv.tv",
+    "domain:hzman.net",
+    "domain:wasu.cn",
+    "domain:wasu.tv",
+    "domain:wasumedia.cn"
+  ]
+}

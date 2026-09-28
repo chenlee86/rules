@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "QQMusic",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:aqqmusic.tc.qq.com",
+    "domain:music.qq.com",
+    "domain:music.tc.qq.com",
+    "domain:qqmusic.qq.com",
+    "domain:tencentmusic.com",
+    "domain:y.qq.com"
+  ]
+}

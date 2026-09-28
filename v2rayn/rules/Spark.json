@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Spark",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:amplitude.com",
+    "domain:firebaseio.com",
+    "domain:hockeyapp.net",
+    "domain:readdle.com",
+    "domain:smartmailcloud.com"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "field",
+  "remarks": "Oracle",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com",
+    "domain:addthis.com",
+    "domain:addthis.com.edgekey.net",
+    "domain:addthiscdn.com",
+    "domain:addthisedge.com",
+    "domain:ateam-oracle.com",
+    "domain:bluekai.com",
+    "domain:bronto.com",
+    "domain:covid19-rx.org",
+    "domain:covid19rx.org",
+    "domain:eloqua.com",
+    "domain:eloquaeditors.com",
+    "domain:eloquapreview.com",
+    "domain:en25.com",
+    "domain:java",
+    "domain:java.com",
+    "domain:java.net",
+    "domain:oracle",
+    "domain:oracle.com",
+    "domain:oraclecloud.com",
+    "domain:oraclefoundation.org",
+    "domain:oracleimg.com",
+    "domain:oracleinfinity.io",
+    "domain:responsys.net",
+    "domain:sun.com"
+  ]
+}

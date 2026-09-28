@@ -1,0 +1,24 @@
+{
+  "type": "field",
+  "remarks": "LuDaShi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:birdpaper.cn",
+    "domain:dualspace.com",
+    "domain:dualspacetech.com",
+    "domain:easyclean.fun",
+    "domain:kejids.cn",
+    "domain:kejids.com",
+    "domain:ludan.cn",
+    "domain:ludashi.cn",
+    "domain:ludashi.com",
+    "domain:monidashi.cn",
+    "domain:monidashi.com.cn",
+    "domain:superlitetech.com",
+    "domain:taojike.cn",
+    "domain:xiaoluerhuo.com",
+    "domain:xiaoluhaohuo.com",
+    "domain:xiaoluyouxuan.com",
+    "domain:youhua.com"
+  ]
+}

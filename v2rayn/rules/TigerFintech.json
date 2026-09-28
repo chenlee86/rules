@@ -1,0 +1,26 @@
+{
+  "type": "field",
+  "remarks": "TigerFintech",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ftfast.com",
+    "domain:iotaskyt.com",
+    "domain:iotaskyty.com",
+    "domain:itiger.com",
+    "domain:itigergrowtha.com",
+    "domain:itigerup.com",
+    "domain:laohu8.com",
+    "domain:play-analytics.com",
+    "domain:skytigris.cn",
+    "domain:tbdesk.com",
+    "domain:tigerbbs.cn",
+    "domain:tigerbbs.com",
+    "domain:tigerbrokers.net",
+    "domain:tigerfintech.com",
+    "domain:tigertcp.cn",
+    "domain:tigr.link",
+    "domain:xiaohu8.com",
+    "domain:zhijianfengyi.cn",
+    "domain:zhijianfengyi.com"
+  ]
+}

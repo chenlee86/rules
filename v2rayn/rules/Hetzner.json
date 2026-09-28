@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Hetzner",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hetzner.cloud",
+    "domain:hetzner.com",
+    "domain:hetzner.de",
+    "domain:your-server.de"
+  ]
+}

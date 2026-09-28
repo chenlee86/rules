@@ -1,0 +1,33 @@
+{
+  "type": "field",
+  "remarks": "ZhangYue",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:corp3g.cn",
+    "domain:ireader.com",
+    "domain:ireader.com.cn",
+    "domain:ireader.live",
+    "domain:ireader.mobi",
+    "domain:ireaderm.com",
+    "domain:ireaderm.net",
+    "domain:iremaker.com",
+    "domain:mgcube.cn",
+    "domain:palmebook.com",
+    "domain:palmeread.cn",
+    "domain:palmeread.com",
+    "domain:palmestore.cn",
+    "domain:palmestore.com",
+    "domain:transmonkey.cn",
+    "domain:transmonkey.com",
+    "domain:transmonkey.net",
+    "domain:z3.cn",
+    "domain:zhangyue.com",
+    "domain:zhangyue.net",
+    "domain:zhangyue01.com",
+    "domain:zhangyue02.com",
+    "domain:zhangyue03.com",
+    "domain:zhi3.com.cn",
+    "domain:zhi3.net",
+    "domain:zuoshujiang.com"
+  ]
+}

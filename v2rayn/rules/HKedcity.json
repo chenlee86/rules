@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "HKedcity",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:edcity.hk",
+    "domain:hkedcity.net",
+    "domain:hkreadingcity.net"
+  ]
+}

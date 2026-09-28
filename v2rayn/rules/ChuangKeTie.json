@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "ChuangKeTie",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:byfan.cn",
+    "domain:chuangkit.com",
+    "domain:ckt.cn",
+    "domain:huoziyin.cn",
+    "domain:huoziyin.com"
+  ]
+}

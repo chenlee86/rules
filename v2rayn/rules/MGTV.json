@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "MGTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hitv.com",
+    "domain:hunantv.com",
+    "domain:mgtv.com"
+  ]
+}

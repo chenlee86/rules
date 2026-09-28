@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "YouMind",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:youmind.ai",
+    "domain:youmind.com",
+    "domain:youmind.site"
+  ]
+}

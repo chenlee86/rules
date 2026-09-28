@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "KKTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:kktv-theater.kk.stream",
+    "full:theater-kktv.cdn.hinet.net",
+    "domain:kktv.com.tw",
+    "domain:kktv.me"
+  ]
+}

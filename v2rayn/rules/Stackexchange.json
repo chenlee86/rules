@@ -1,0 +1,27 @@
+{
+  "type": "field",
+  "remarks": "Stackexchange",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:askubuntu.com",
+    "domain:blogoverflow.com",
+    "domain:codeforaliving.io",
+    "domain:mathoverflow.net",
+    "domain:serverfault.com",
+    "domain:sstatic.net",
+    "domain:stackapps.com",
+    "domain:stackauth.com",
+    "domain:stackexchange.com",
+    "domain:stackmod.blog",
+    "domain:stackoverflow.blog",
+    "domain:stackoverflow.co",
+    "domain:stackoverflow.com",
+    "domain:stackoverflow.email",
+    "domain:stackoverflowbusiness.com",
+    "domain:stackoverflowcareers.com",
+    "domain:stacksnippets.net",
+    "domain:superuser.com",
+    "domain:tex-talk.net",
+    "domain:thesffblog.com"
+  ]
+}

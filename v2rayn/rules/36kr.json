@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "36kr",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:36dianping.com",
+    "domain:36kr.com",
+    "domain:36krcdn.com",
+    "domain:36krcnd.com"
+  ]
+}

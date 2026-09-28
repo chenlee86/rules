@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "OP",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:op.gg",
+    "domain:opgg-static.akamaized.net"
+  ]
+}

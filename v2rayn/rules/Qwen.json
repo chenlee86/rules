@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "Qwen",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:bailian.console.aliyun.com",
+    "full:dashscope.aliyuncs.com",
+    "full:qodercn-jb.oss-cn-hangzhou.aliyuncs.com",
+    "domain:qianwen.aliyun.com",
+    "domain:qianwen.com",
+    "domain:qoder.cn",
+    "domain:qoder.com.cn",
+    "domain:qwen.ai",
+    "domain:qwenlm.ai",
+    "domain:tongyi.aliyun.com",
+    "domain:tongyi.com"
+  ]
+}

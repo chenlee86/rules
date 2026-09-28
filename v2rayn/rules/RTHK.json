@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "RTHK",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:rthklive2-lh.akamaihd.net",
+    "full:rthkradio1-live.akamaized.net",
+    "full:rthkradio2-live.akamaized.net",
+    "full:rthkradio3-live.akamaized.net",
+    "full:rthkradio4-live.akamaized.net",
+    "full:rthkradio5-live.akamaized.net",
+    "full:rthkradiocmgrgb-live.akamaized.net",
+    "full:rthkradiocnrhk-live.akamaized.net",
+    "full:rthkradiopth-live.akamaized.net",
+    "full:rthktv31-live.akamaized.net",
+    "full:rthktv32-live.akamaized.net",
+    "domain:rthk.hk",
+    "domain:rthk.org.hk"
+  ]
+}

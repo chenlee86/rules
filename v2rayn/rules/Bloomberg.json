@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "Bloomberg",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bloomberg.co.kr",
+    "domain:bloomberg.com",
+    "domain:bloomberg.com.br",
+    "domain:bloomberg.fm",
+    "domain:bloomberg.tv",
+    "domain:bloombergapps.com",
+    "domain:bloombergarcade.com",
+    "domain:bloombergbeta.com",
+    "domain:blpprofessional.com",
+    "domain:bmia.org",
+    "domain:bnef.com",
+    "domain:businessweek.com",
+    "domain:businessweekmag.com",
+    "domain:bwbx.io",
+    "domain:citylab.com",
+    "domain:gotraffic.net",
+    "domain:londonmithraeum.com",
+    "domain:neweconomyforum.com",
+    "domain:newenergyfinance.com",
+    "domain:quicktake.video",
+    "domain:techatbloomberg.com",
+    "domain:tictoc.video"
+  ]
+}

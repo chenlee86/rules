@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "ITV",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:itvpnpmobile-a.akamaihd.net",
+    "domain:itv.com",
+    "domain:itvstatic.com"
+  ]
+}

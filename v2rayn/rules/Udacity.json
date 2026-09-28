@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Udacity",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:udacity.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "JianShu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:baijii.com",
+    "domain:jianshu.com",
+    "domain:jianshu.io",
+    "domain:jianshuapi.com",
+    "domain:shengmingfa.com"
+  ]
+}

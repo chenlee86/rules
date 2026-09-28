@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Termux",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:termux.com",
+    "domain:termux.dev",
+    "domain:termux.org"
+  ]
+}

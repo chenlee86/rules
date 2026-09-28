@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Hanime1",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hanime.tv",
+    "domain:hanime1.me",
+    "domain:hembed.com"
+  ]
+}

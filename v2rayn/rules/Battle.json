@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "Battle",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:blizzard.nefficient.co.kr",
+    "full:blzddist1-a.akamaihd.net",
+    "full:blzddistkr1-a.akamaihd.net",
+    "full:bnetproduct-a.akamaihd.net",
+    "full:cdn.blz-contentstack.com",
+    "domain:battle.net",
+    "domain:battlenet.com.cn",
+    "domain:blizzard.com"
+  ]
+}

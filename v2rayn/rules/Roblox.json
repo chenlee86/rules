@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Roblox",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:rbxcdn.com",
+    "roblox"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "field",
+  "remarks": "HuanJu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:5253.com",
+    "domain:blogchina.org",
+    "domain:c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net",
+    "domain:chinaduo.com",
+    "domain:duowan.cn",
+    "domain:duowan.com",
+    "domain:duowan.com.cn",
+    "domain:dwstatic.com",
+    "domain:hiido.cn",
+    "domain:hiido.com",
+    "domain:hiido.net",
+    "domain:huanju.cn",
+    "domain:huanju.net",
+    "domain:huanjuyun.com",
+    "domain:yy.com",
+    "domain:yy.com.cn",
+    "domain:yyclouds.com",
+    "domain:yygamedev.com",
+    "domain:yystatic.com",
+    "domain:zhiniu8.com"
+  ]
+}

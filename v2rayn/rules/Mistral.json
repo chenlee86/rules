@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Mistral",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:mistral.ai"
+  ]
+}

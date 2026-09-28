@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "VK",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:mvk.com",
+    "domain:userapi.com",
+    "domain:vk-cdn.me",
+    "domain:vk-cdn.net",
+    "domain:vk-portal.net",
+    "domain:vk.cc",
+    "domain:vk.com"
+  ]
+}

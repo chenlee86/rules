@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Fiio",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fiio.cn",
+    "domain:fiio.com",
+    "domain:fiio.com.cn",
+    "domain:fiio.net"
+  ]
+}

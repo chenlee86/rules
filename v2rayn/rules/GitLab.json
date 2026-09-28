@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "GitLab",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+    "domain:gitlab-static.net",
+    "domain:gitlab.com",
+    "domain:gitlab.net",
+    "domain:gitter-static.net",
+    "domain:gitter.im"
+  ]
+}

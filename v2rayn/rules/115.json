@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "115",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:fhnfile.oss-cn-shenzhen.aliyuncs.com",
+    "domain:115.com",
+    "domain:115cdn.com",
+    "domain:115cdn.net",
+    "domain:115img.com",
+    "domain:116cd.cn",
+    "domain:116cd.com",
+    "domain:116cd.net",
+    "domain:anxia.com",
+    "domain:sq.cc"
+  ]
+}

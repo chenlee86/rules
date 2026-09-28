@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "HKOpenTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fantv.hk",
+    "domain:hkopentv.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Intercom",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:intercom.com",
+    "domain:intercom.io",
+    "domain:intercomassets.com",
+    "domain:intercomcdn.com"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "field",
+  "remarks": "CNKI",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bbf.org.cn",
+    "domain:bjsbnet.com",
+    "domain:chndoi.cn",
+    "domain:chndoi.com",
+    "domain:chndoi.com.cn",
+    "domain:chndoi.net",
+    "domain:chndoi.org",
+    "domain:cnki.net",
+    "domain:cnkidoi.cn",
+    "domain:cnkidoi.com",
+    "domain:cnkidoi.net",
+    "domain:cnkidoi.org",
+    "domain:wuxizazhi.cn",
+    "domain:wuxizazhi.com",
+    "domain:wuxizazhi.com.cn",
+    "domain:wuxizazhi.net",
+    "domain:wuxizazhi.net.cn"
+  ]
+}

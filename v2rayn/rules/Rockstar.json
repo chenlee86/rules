@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Rockstar",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:gamedownloads-rockstargames-com.akamaized.net",
+    "domain:media-rockstargames-com.akamaized.net",
+    "domain:rockstargames.com",
+    "domain:rsg.sc",
+    "domain:videos-rockstargames-com.akamaized.net"
+  ]
+}

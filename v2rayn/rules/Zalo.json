@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Zalo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:zalo.me",
+    "domain:zaloapp.com"
+  ]
+}

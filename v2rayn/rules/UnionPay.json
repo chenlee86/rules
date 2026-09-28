@@ -1,0 +1,23 @@
+{
+  "type": "field",
+  "remarks": "UnionPay",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:95516.com",
+    "domain:95516.net",
+    "domain:airepay.net",
+    "domain:chinapay.cn",
+    "domain:chinapay.com",
+    "domain:chinapayhongkong.com",
+    "domain:chinaunionpay.com",
+    "domain:chinaunionpay.com.cn",
+    "domain:chinaunionpay.net",
+    "domain:cup.com.cn",
+    "domain:cup62.cn",
+    "domain:unionpay.com",
+    "domain:unionpay.net",
+    "domain:unionpayintl.cn",
+    "domain:unionpayintl.com",
+    "domain:unionpaysecure.com"
+  ]
+}

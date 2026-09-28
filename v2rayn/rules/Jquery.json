@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Jquery",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:jquery.com",
+    "domain:jquerymobile.com",
+    "domain:jqueryui.com"
+  ]
+}

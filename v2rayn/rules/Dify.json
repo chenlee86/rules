@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Dify",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dify.ai"
+  ]
+}

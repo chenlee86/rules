@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "6park",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:6park.com",
+    "domain:6parkbbs.com",
+    "domain:6parknews.com",
+    "domain:cool18.com"
+  ]
+}

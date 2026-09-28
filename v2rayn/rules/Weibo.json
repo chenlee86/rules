@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Weibo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:weibo.cn",
+    "domain:weibo.com",
+    "domain:weibocdn.com",
+    "weibo"
+  ]
+}

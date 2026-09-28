@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "MapBox",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:mapbox.cn",
+    "domain:mapbox.com"
+  ]
+}

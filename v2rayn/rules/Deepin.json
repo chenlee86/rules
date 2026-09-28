@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Deepin",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:chinauos.com",
+    "domain:deepin.cn",
+    "domain:deepin.com",
+    "domain:deepin.io",
+    "domain:deepin.org",
+    "domain:linglong.dev",
+    "domain:uniontech.com"
+  ]
+}

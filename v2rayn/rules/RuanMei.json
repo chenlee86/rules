@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "RuanMei",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:6655.com",
+    "domain:cike.cn",
+    "domain:cooldock.com",
+    "domain:dnsnut.com",
+    "domain:fengkeji.com",
+    "domain:henku.com",
+    "domain:ithome.com",
+    "domain:ithome.net",
+    "domain:jimeng.com",
+    "domain:lapin365.com",
+    "domain:loogoo.com",
+    "domain:ruanmei.cn",
+    "domain:ruanmei.com",
+    "domain:saayaa.com",
+    "domain:souxia.com",
+    "domain:tweakcube.com",
+    "domain:vista123.com",
+    "domain:wanhongbao.com",
+    "domain:win7china.com",
+    "domain:win8china.com",
+    "domain:yaodu365.com",
+    "domain:zuihuimai.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "All4",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:c4assets.com",
+    "domain:channel4.com"
+  ]
+}

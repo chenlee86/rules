@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "WeType",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:wetype.weixin.qq.com"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "field",
+  "remarks": "Qobuz",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cobeuz.fr",
+    "domain:cobuz.fr",
+    "domain:cobuzz.fr",
+    "domain:kobuz.fr",
+    "domain:qobuz.at",
+    "domain:qobuz.be",
+    "domain:qobuz.biz",
+    "domain:qobuz.ca",
+    "domain:qobuz.ch",
+    "domain:qobuz.co.uk",
+    "domain:qobuz.com",
+    "domain:qobuz.de",
+    "domain:qobuz.eu",
+    "domain:qobuz.fi",
+    "domain:qobuz.fr",
+    "domain:qobuz.gr",
+    "domain:qobuz.hk",
+    "domain:qobuz.info",
+    "domain:qobuz.it",
+    "domain:qobuz.lt",
+    "domain:qobuz.lu",
+    "domain:qobuz.net",
+    "domain:qobuz.org",
+    "domain:qobuz.pl",
+    "domain:qobuz.ro",
+    "domain:qobuz.se",
+    "domain:qobuz.tv",
+    "domain:qobuz.us",
+    "domain:quobuz.com",
+    "domain:quobuz.fr",
+    "domain:static-qobuz.com"
+  ],
+  "ip": [
+    "52.211.1.180/32",
+    "99.81.97.56/32"
+  ]
+}

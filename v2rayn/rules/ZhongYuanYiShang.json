@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "ZhongYuanYiShang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bjesound.com",
+    "domain:earlymen.com.cn",
+    "domain:esound.cn",
+    "domain:esound.net.cn",
+    "domain:esound.vip",
+    "domain:flymodem.cn",
+    "domain:flymodem.com.cn",
+    "domain:flymodem.net",
+    "domain:iotboss.cn"
+  ]
+}

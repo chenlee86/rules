@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "ViuTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cognito-identity.us-east-1.amazonaws.com",
+    "domain:d1k2us671qcoau.cloudfront.net",
+    "domain:d2anahhhmp1ffz.cloudfront.net",
+    "domain:dfp6rglgjqszk.cloudfront.net",
+    "domain:mobileanalytics.us-east-1.amazonaws.com",
+    "domain:viu.com",
+    "domain:viu.now.com",
+    "domain:viu.tv"
+  ]
+}

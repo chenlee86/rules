@@ -1,0 +1,32 @@
+{
+  "type": "field",
+  "remarks": "PCCW",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:1010.com.hk",
+    "domain:d1k2us671qcoau.cloudfront.net",
+    "domain:dfp6rglgjqszk.cloudfront.net",
+    "domain:esmarthealth.com",
+    "domain:hkcsl.com",
+    "domain:hkt-enterprise.com",
+    "domain:hkt-eye.com",
+    "domain:hkt.com",
+    "domain:hkteducation.com",
+    "domain:hktpremier.com",
+    "domain:hktshop.com",
+    "domain:moov.hk",
+    "domain:netvigator.com",
+    "domain:now-ashare.com",
+    "domain:now-tv.com",
+    "domain:now.com",
+    "domain:now.com.hk",
+    "domain:nowe.com",
+    "domain:nowe.hk",
+    "domain:pccw.com",
+    "domain:pccwglobal.com",
+    "domain:pccwsolutions.com",
+    "domain:theclub.com.hk",
+    "domain:uhub.com",
+    "domain:viu.com"
+  ]
+}

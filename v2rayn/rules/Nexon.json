@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Nexon",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:nexon.co.jp",
+    "domain:nexon.com",
+    "domain:nexon.io",
+    "domain:nexoncdn.co.kr"
+  ]
+}

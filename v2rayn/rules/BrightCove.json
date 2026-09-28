@@ -1,0 +1,21 @@
+{
+  "type": "field",
+  "remarks": "BrightCove",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bcove.video",
+    "domain:bcovlive-a.akamaihd.net",
+    "domain:bcovlive.io",
+    "domain:bcsecure01-a.akamaihd.net",
+    "domain:bcvp0rtal.com",
+    "domain:boltdns.net",
+    "domain:brightcove.com",
+    "domain:brightcove.imgix.net",
+    "domain:brightcove.net",
+    "domain:brightcove.services",
+    "domain:brightcovecdn.com",
+    "domain:videojs.com",
+    "domain:zencdn.net",
+    "domain:zencoder.com"
+  ]
+}

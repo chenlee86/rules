@@ -1,0 +1,26 @@
+{
+  "type": "field",
+  "remarks": "HBOAsia",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
+    "full:bcbolthboa-a.akamaihd.net",
+    "full:cf-images.ap-southeast-1.prod.boltdns.net",
+    "full:dai3fd1oh325y.cloudfront.net",
+    "full:hboasia1-i.akamaihd.net",
+    "full:hboasia2-i.akamaihd.net",
+    "full:hboasia3-i.akamaihd.net",
+    "full:hboasia4-i.akamaihd.net",
+    "full:hboasia5-i.akamaihd.net",
+    "full:hboasialive.akamaized.net",
+    "full:hbogoprod-vod.akamaized.net",
+    "full:hbolb.onwardsmg.com",
+    "full:hbounify-prod.evergent.com",
+    "full:players.brightcove.net",
+    "full:s3-ap-southeast-1.amazonaws.com",
+    "full:wmff.warnermediacdn.com",
+    "domain:hbogoasia.com",
+    "domain:hbogoasia.hk",
+    ".hbogoasia."
+  ]
+}

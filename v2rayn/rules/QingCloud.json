@@ -1,0 +1,19 @@
+{
+  "type": "field",
+  "remarks": "QingCloud",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:anybox.com",
+    "domain:frontwize.com",
+    "domain:kubesphere.com.cn",
+    "domain:qingcache.com",
+    "domain:qingcloud.cn",
+    "domain:qingcloud.com",
+    "domain:qingcloud.com.cn",
+    "domain:qingstor.com",
+    "domain:qingstorage.com",
+    "domain:quanxiangyun.com",
+    "domain:routewize.com",
+    "domain:yunify.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Cnet",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cnet.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "WenJuanXing",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:sojump.com",
+    "domain:wjx.cn",
+    "domain:wjx.com",
+    "domain:wjx.top"
+  ]
+}

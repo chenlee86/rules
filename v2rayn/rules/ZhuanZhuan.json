@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "ZhuanZhuan",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:zhuan-zhuan.cn",
+    "domain:zhuancorp.com",
+    "domain:zhuanspirit.com",
+    "domain:zhuanzhuan.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Apkpure",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:apkpure.com",
+    "domain:cdnpure.com",
+    "domain:pureapk.com",
+    "domain:winudf.com"
+  ]
+}

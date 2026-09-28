@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Wanfang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:wanfangdata.com.cn",
+    "domain:wf.pub"
+  ]
+}

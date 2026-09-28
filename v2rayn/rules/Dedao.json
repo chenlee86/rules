@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "Dedao",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:biji.com",
+    "domain:ddmogo.com",
+    "domain:igetget.cn",
+    "domain:igetget.com",
+    "domain:luojilab.com",
+    "domain:mogoo.com",
+    "domain:sao.cn",
+    "domain:saolife.com"
+  ]
+}

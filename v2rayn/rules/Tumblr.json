@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Tumblr",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:tmblr.co",
+    "domain:tumblr.co",
+    "domain:tumblr.com"
+  ]
+}

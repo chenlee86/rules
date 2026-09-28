@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Dynu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dynu.com",
+    "domain:dynu.net",
+    "domain:freeddns.org"
+  ]
+}

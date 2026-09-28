@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "APKCombo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:apkcombo.com"
+  ]
+}

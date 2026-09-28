@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "NaverTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:naver.com",
+    "domain:smartmediarep.com"
+  ]
+}

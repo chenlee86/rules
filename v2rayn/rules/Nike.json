@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "Nike",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:nike.com",
+    "domain:nike.com.br",
+    "domain:nike.com.hk",
+    "domain:nikecdn.com",
+    "domain:nikecloud.com",
+    "domain:nikeinc.com.cn",
+    "domain:nikestore.com.au",
+    "domain:niketracking.com",
+    "domain:static-nike.com",
+    "domain:swoo.sh",
+    "domain:swoosh.com"
+  ]
+}

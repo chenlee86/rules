@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "HuggingFace",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hf.co",
+    "domain:hf.space",
+    "domain:huggingface.co"
+  ]
+}

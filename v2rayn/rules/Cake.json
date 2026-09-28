@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Cake",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:d1koerlbtsmkf8.cloudfront.net",
+    "full:d31wl6mro6753i.cloudfront.net",
+    "full:static-mycake.pstatic.net",
+    "full:vstatic-mycake.pstatic.net",
+    "domain:cake.day",
+    "domain:cakeapp.me",
+    "domain:mycake.me"
+  ]
+}

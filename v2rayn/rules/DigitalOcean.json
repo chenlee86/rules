@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "DigitalOcean",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:digitalocean.com",
+    "domain:digitaloceanspaces.com",
+    "domain:do.co",
+    "domain:nginxconfig.io"
+  ]
+}

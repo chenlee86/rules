@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "XNXX",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:xnxx-cdn.com",
+    "domain:xnxx.com",
+    "domain:xnxx.net",
+    "domain:xnxx.tv",
+    "domain:xnxx3.com"
+  ]
+}

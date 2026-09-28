@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "HP",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hp.com",
+    "domain:hpstore-china.com",
+    "domain:hpstore.com",
+    "domain:hpstore.corpmerchandise.com"
+  ]
+}

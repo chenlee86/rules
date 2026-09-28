@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "zhanqi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:zhanqi.tv"
+  ]
+}

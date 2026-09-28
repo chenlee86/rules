@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Protonmail",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:pm.me",
+    "domain:proton.me",
+    "domain:protonmail.ch",
+    "domain:protonmail.com",
+    "domain:protonstatus.com"
+  ]
+}

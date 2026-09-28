@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "LvMiLianChuang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aqara.cn",
+    "domain:aqara.com",
+    "domain:aqara.com.cn",
+    "domain:lumiunited.cn",
+    "domain:lumiunited.com",
+    "domain:lumiunited.com.cn"
+  ]
+}

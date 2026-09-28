@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Acer",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:acer-group.com",
+    "domain:acer.com",
+    "domain:acer.com.cn",
+    "domain:founderpc.cn",
+    "domain:founderpc.com"
+  ]
+}

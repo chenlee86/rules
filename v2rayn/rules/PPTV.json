@@ -1,0 +1,26 @@
+{
+  "type": "field",
+  "remarks": "PPTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bkrent.cn",
+    "domain:g1d.net",
+    "domain:iptv.com.cn",
+    "domain:jiwunote.com.cn",
+    "domain:kidkk.cn",
+    "domain:kidpp.cn",
+    "domain:kidsn.cn",
+    "domain:kidyy.cn",
+    "domain:pplive.cn",
+    "domain:pplive.com",
+    "domain:pplive.com.cn",
+    "domain:pplive.net",
+    "domain:pptv.com",
+    "domain:pptvdata.com",
+    "domain:pptvimg.com",
+    "domain:pptvnet.com",
+    "domain:pptvyun.com",
+    "domain:snrent.cn",
+    "domain:synacast.com"
+  ]
+}

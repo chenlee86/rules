@@ -1,0 +1,21 @@
+{
+  "type": "field",
+  "remarks": "YiXiaKeJi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:huangka.com",
+    "domain:iyuezhang.net",
+    "domain:miaokan.com",
+    "domain:miaopai.com",
+    "domain:vbbobo.com",
+    "domain:vitamio.net",
+    "domain:vitamio.org",
+    "domain:vitamio.tv",
+    "domain:vplayer.net",
+    "domain:weishipin.com",
+    "domain:xiaoka.tv",
+    "domain:xiaokaxiu.com",
+    "domain:yixia.com",
+    "domain:yixiatong.com"
+  ]
+}

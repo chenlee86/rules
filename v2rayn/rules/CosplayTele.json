@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "CosplayTele",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cosplaytele.com",
+    "domain:cossora.stream"
+  ]
+}

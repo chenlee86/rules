@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "ShangHaiJuXiao",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bubuying.net",
+    "domain:kuaishuru.net",
+    "domain:mdvdns.com",
+    "domain:mediav.com",
+    "domain:mvad.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Windsurf",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:codeium.com",
+    "domain:codeiumdata.com",
+    "domain:windsurf.build",
+    "domain:windsurf.com"
+  ]
+}

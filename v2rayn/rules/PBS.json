@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "PBS",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:pbs.org"
+  ]
+}

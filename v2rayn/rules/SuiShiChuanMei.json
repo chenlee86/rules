@@ -1,0 +1,21 @@
+{
+  "type": "field",
+  "remarks": "SuiShiChuanMei",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:91friend.com",
+    "domain:adsit.cn",
+    "domain:aojiamarly.com",
+    "domain:ebaidutv.com",
+    "domain:mipujia.cn",
+    "domain:mipujia.com",
+    "domain:mobhui.cn",
+    "domain:mobhui.com",
+    "domain:quyaoya.cn",
+    "domain:quyaoya.com",
+    "domain:smartsocial.cn",
+    "domain:socialjia.com",
+    "domain:socialpls.com",
+    "domain:weibopie.com"
+  ]
+}

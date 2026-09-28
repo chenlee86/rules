@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Redtube",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:livehdcams.com",
+    "domain:rdtcdn.com",
+    "domain:redtube.com",
+    "domain:redtube.com.br",
+    "domain:redtubepremium.com"
+  ]
+}

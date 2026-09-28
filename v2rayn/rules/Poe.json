@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Poe",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:poe.com",
+    "domain:poecdn.net"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "WanMeiShiJie",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:counter-strike.cn",
+    "domain:counter-strike.com.cn",
+    "domain:csgo.com.cn",
+    "domain:laohu.com",
+    "domain:pwrdoverseagame.com",
+    "domain:pwrdoverseas.com",
+    "domain:wanmei.com",
+    "domain:wanmei.net",
+    "domain:wmupd.com",
+    "domain:wmupd.com.cn",
+    "domain:wmwm.com"
+  ]
+}

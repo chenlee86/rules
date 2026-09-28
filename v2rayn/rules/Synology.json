@@ -1,0 +1,26 @@
+{
+  "type": "field",
+  "remarks": "Synology",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:d2f0395ykn6hxb.cloudfront.net",
+    "domain:diskstation.me",
+    "domain:dscloud.biz",
+    "domain:dscloud.me",
+    "domain:dscloud.mobi",
+    "domain:dsmunas.com",
+    "domain:dsmunas.net",
+    "domain:dsmunas.org",
+    "domain:familyds.com",
+    "domain:familyds.net",
+    "domain:familyds.org",
+    "domain:i234.me",
+    "domain:myds.com",
+    "domain:quickconnect.to",
+    "domain:synodns.com",
+    "domain:synology.cn",
+    "domain:synology.com",
+    "domain:synology.me",
+    "synology"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "HibyMusic",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hiby.cd",
+    "domain:hiby.com",
+    "domain:hibymusic.com"
+  ]
+}

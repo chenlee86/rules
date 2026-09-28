@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "DouBan",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:douban.com",
+    "domain:douban.fm",
+    "domain:doubanio.com"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "field",
+  "remarks": "JueJin",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:b-gold-cdn.xitu.io",
+    "domain:juejin.im",
+    "domain:mirror-gold-cdn.xitu.io",
+    "domain:p1-juejin.byteimg.com",
+    "domain:p2-juejin.byteimg.com",
+    "domain:p3-juejin.byteimg.com",
+    "domain:p4-juejin.byteimg.com",
+    "domain:p5-juejin.byteimg.com",
+    "domain:p6-juejin.byteimg.com",
+    "domain:p7-juejin.byteimg.com",
+    "domain:p8-juejin.byteimg.com",
+    "domain:p9-juejin.byteimg.com"
+  ]
+}

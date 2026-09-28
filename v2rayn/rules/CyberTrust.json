@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "CyberTrust",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cybertrust.co.jp",
+    "domain:cybertrust.ne.jp"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Kimi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:kimi.com",
+    "domain:moonshot.ai",
+    "domain:moonshot.cn"
+  ]
+}

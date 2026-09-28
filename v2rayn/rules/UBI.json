@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "UBI",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ubi.com",
+    "domain:ubisoft-orbit-savegames.s3.amazonaws.com",
+    "domain:ubisoft-uplay-savegames.s3.amazonaws.com",
+    "domain:ubisoft.com",
+    "domain:uplay.com"
+  ]
+}

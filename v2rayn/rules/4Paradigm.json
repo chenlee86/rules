@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "4Paradigm",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:4paradigm.com"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "Picsee",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:pics.ee",
+    "domain:picsee.co",
+    "domain:picsee.pro",
+    "domain:pise.pw",
+    "domain:pros.ee",
+    "domain:pse.is"
+  ]
+}

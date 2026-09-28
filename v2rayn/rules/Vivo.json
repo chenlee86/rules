@@ -1,0 +1,21 @@
+{
+  "type": "field",
+  "remarks": "Vivo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bbk.com",
+    "domain:bbktel.com.cn",
+    "domain:funtouchos.com",
+    "domain:gdbbk.com",
+    "domain:iqoo.com",
+    "domain:vivo.cn",
+    "domain:vivo.com",
+    "domain:vivo.com.cn",
+    "domain:vivo.xyz",
+    "domain:vivoglobal.com",
+    "domain:vivosjpt.com",
+    "domain:vivotc.com",
+    "domain:vmic.xyz",
+    "domain:vsearch.club"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "TruthSocial",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:trk.bonsa.net",
+    "domain:truthsocial.com"
+  ]
+}

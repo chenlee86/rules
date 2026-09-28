@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Npmjs",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:npm.community",
+    "domain:npmjs.com",
+    "domain:npmjs.org"
+  ]
+}

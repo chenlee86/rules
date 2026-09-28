@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "LianMeng",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:2333333333333.com",
+    "domain:bqtalk.com",
+    "domain:faceu.com",
+    "domain:faceu.com.cn",
+    "domain:faceu.mobi",
+    "domain:faceu.net",
+    "domain:heycan.com",
+    "domain:qmoji.mobi",
+    "domain:qmoji.net",
+    "domain:ulikecam.cn",
+    "domain:ulikecam.com",
+    "domain:ulikecam.mobi",
+    "domain:ulikecam.net"
+  ]
+}

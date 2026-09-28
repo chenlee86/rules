@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Dailymotion",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dai.ly",
+    "domain:dailymotion.com",
+    "domain:dm-event.net",
+    "domain:dmcdn.net",
+    "domain:dmxleo.com"
+  ]
+}

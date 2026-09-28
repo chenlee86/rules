@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "MeiTu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:meipai.com",
+    "domain:meitu.com",
+    "domain:meitudata.com",
+    "domain:meitustat.com"
+  ]
+}

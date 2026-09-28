@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "GitBook",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:gitbook.com",
+    "domain:gitbook.io",
+    "domain:gitbook.zendesk.com"
+  ]
+}

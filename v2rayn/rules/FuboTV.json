@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "FuboTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fubo.tv",
+    "domain:fubotv.com"
+  ]
+}

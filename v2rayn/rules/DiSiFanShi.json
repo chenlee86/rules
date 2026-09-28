@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "DiSiFanShi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:4paradigm.com",
+    "domain:aihero100.com",
+    "domain:tuijianxitong.cn",
+    "domain:v1zhushou.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "XiaoYuanKeJi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:10010mx.com",
+    "domain:5gimos.com",
+    "domain:bizport.cn",
+    "domain:mfexcel.com",
+    "domain:microfountain.com"
+  ]
+}

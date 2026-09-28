@@ -1,0 +1,27 @@
+{
+  "type": "field",
+  "remarks": "FeiZhu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:alitrip.com",
+    "domain:asczwa.com",
+    "domain:asczxcefsv.com",
+    "domain:bcvbw.com",
+    "domain:dfkhgj.com",
+    "domain:edcdfg.com",
+    "domain:ereuiib.com",
+    "domain:fdfgdf.cn",
+    "domain:feizhu.cn",
+    "domain:feizhu.com",
+    "domain:fliggy.com",
+    "domain:fliggy.hk",
+    "domain:iuynfg.com",
+    "domain:jhgtgb.com",
+    "domain:mnbvbqw.com",
+    "domain:ujmjk.com",
+    "domain:vfvdf.com",
+    "domain:xcvvs.com",
+    "domain:zxczw.com",
+    "domain:zzxca.com"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "field",
+  "remarks": "LeJu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:91leju.cn",
+    "domain:91leju.com.cn",
+    "domain:91leju.net",
+    "domain:dichan.com",
+    "domain:dichan.net",
+    "domain:esfimg.com",
+    "domain:fangdudu.com",
+    "domain:houseimg.com",
+    "domain:ileju.cn",
+    "domain:ileju.com",
+    "domain:jiajuimg.com",
+    "domain:leju.cn",
+    "domain:leju.com",
+    "domain:ljimg.com",
+    "domain:quanup.com",
+    "domain:sousea.com",
+    "domain:xhaiwai.com",
+    "domain:xhwhouse.cn",
+    "domain:xhwhouse.com",
+    "domain:yiqisooimg.com"
+  ]
+}

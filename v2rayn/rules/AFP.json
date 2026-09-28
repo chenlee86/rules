@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "AFP",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:afp.com",
+    "domain:afpforum.com"
+  ]
+}

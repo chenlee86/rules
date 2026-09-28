@@ -1,0 +1,25 @@
+{
+  "type": "field",
+  "remarks": "Rakuten",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ebates.com",
+    "domain:infoseek.co.jp",
+    "domain:o50.jp",
+    "domain:r10.to",
+    "domain:r10s.com",
+    "domain:r10s.jp",
+    "domain:rakuten-static.com",
+    "domain:rakuten.ca",
+    "domain:rakuten.co.jp",
+    "domain:rakuten.com",
+    "domain:rakuten.com.tw",
+    "domain:rakuten.ne.jp",
+    "domain:rakuten.tw",
+    "domain:rclon.com",
+    "domain:rebates.jp",
+    "domain:showtime.co.jp",
+    "domain:viber.co.jp",
+    "domain:viber.com"
+  ]
+}

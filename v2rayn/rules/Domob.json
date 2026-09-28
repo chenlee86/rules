@@ -1,0 +1,33 @@
+{
+  "type": "field",
+  "remarks": "Domob",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dmaow.com",
+    "domain:dmrta.com",
+    "domain:dmrtb.cn",
+    "domain:dmrtb.com",
+    "domain:dmvideo.cn",
+    "domain:dmvideo.mobi",
+    "domain:dmvideo.net",
+    "domain:dmvideo.org",
+    "domain:dmyouxi.com",
+    "domain:domob-inc.cn",
+    "domain:domob-inc.com",
+    "domain:domob.cn",
+    "domain:domob.com.cn",
+    "domain:domob.org",
+    "domain:domobcdn.cn",
+    "domain:domobcdn.com",
+    "domain:domobnetwork.com",
+    "domain:duomeng.cn",
+    "domain:duomeng.net",
+    "domain:duomeng.org",
+    "domain:modh.cn",
+    "domain:modh.com.cn",
+    "domain:moxz.cn",
+    "domain:moxz.net",
+    "domain:ugdesk.cn",
+    "domain:ugdesk.com"
+  ]
+}

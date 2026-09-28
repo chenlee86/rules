@@ -1,0 +1,33 @@
+{
+  "type": "field",
+  "remarks": "WangXinKeJi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:0101cdn.com",
+    "domain:hiveshared.com",
+    "domain:ionecloud.cn",
+    "domain:kuiniuca.com",
+    "domain:miuapp.com.cn",
+    "domain:onething.net",
+    "domain:onethingc.com",
+    "domain:onethingcloud.cn",
+    "domain:onethingcloud.com",
+    "domain:onethingd.com",
+    "domain:onethingn.com",
+    "domain:onethingpcs.com",
+    "domain:onethingtech.com.cn",
+    "domain:onethingtech.net",
+    "domain:peiluyou.com",
+    "domain:seekr.com.cn",
+    "domain:uhabo.com",
+    "domain:walk-live.com",
+    "domain:wezhibo.net",
+    "domain:wezhibo.tv",
+    "domain:wzhibo.net",
+    "domain:wzhibo.tv",
+    "domain:xunleioa.com",
+    "domain:xycdn.com",
+    "domain:xycloud.com",
+    "domain:xylive.tv"
+  ]
+}

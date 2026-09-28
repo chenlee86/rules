@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "ChinaDNS",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dns.alidns.com",
+    "domain:doh.360.cn",
+    "domain:doh.pub"
+  ],
+  "ip": [
+    "1.12.12.12/32"
+  ]
+}

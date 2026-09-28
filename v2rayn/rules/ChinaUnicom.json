@@ -1,0 +1,43 @@
+{
+  "type": "field",
+  "remarks": "ChinaUnicom",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:10010.cn",
+    "domain:10010.com",
+    "domain:10010.com.cn",
+    "domain:10010.net",
+    "domain:17wo.cn",
+    "domain:chinaunicom.cn",
+    "domain:chinaunicom.com",
+    "domain:chinaunicom.com.cn",
+    "domain:chinaunicom.com.hk",
+    "domain:chinaunicombidding.cn",
+    "domain:chinaunicomglobal.com",
+    "domain:cu5gaia.cn",
+    "domain:cu5gaia.com",
+    "domain:cuecp.cn",
+    "domain:cupb.cn",
+    "domain:e-engine.com.cn",
+    "domain:gd10010.cn",
+    "domain:gd116114.net.cn",
+    "domain:gd165.com",
+    "domain:gnoc.com.cn",
+    "domain:mucfc.com",
+    "domain:mychinaunicom.com",
+    "domain:unicomgd.com",
+    "domain:unicompayment.cn",
+    "domain:unicompayment.com",
+    "domain:unicompayment.net",
+    "domain:unicompayment.org",
+    "domain:unimip.cn",
+    "domain:wo-link.tech",
+    "domain:wo.cn",
+    "domain:wo.com.cn",
+    "domain:wobaif.com",
+    "domain:wom186.com"
+  ],
+  "ip": [
+    "113.200.56.63/32"
+  ]
+}

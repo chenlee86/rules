@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "TaiheMusic",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:91q.com",
+    "domain:dmhmusic.com",
+    "domain:qianqian.com",
+    "domain:submusic.cn",
+    "domain:taihe.com",
+    "domain:ttplayer.com",
+    "domain:youyou.com",
+    "domain:youyou001.com"
+  ]
+}

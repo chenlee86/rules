@@ -1,0 +1,34 @@
+{
+  "type": "field",
+  "remarks": "KuangShi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:brainplusplus.com.cn",
+    "domain:brainpp.cn",
+    "domain:datafun.vip",
+    "domain:face-plus-plus.com",
+    "domain:faceid.com",
+    "domain:faceplusplus.com",
+    "domain:faceplusplus.com.cn",
+    "domain:imageplusplus.cn",
+    "domain:imageplusplus.com",
+    "domain:imageplusplus.com.cn",
+    "domain:imageplusplus.net",
+    "domain:kaolacam.net",
+    "domain:koalacam.net",
+    "domain:kuangshitech.com",
+    "domain:megcup.com",
+    "domain:megvii-inc.com",
+    "domain:megvii.com",
+    "domain:visionhacker.com",
+    "domain:xcyuntech.cn",
+    "domain:xiaodaijl.com",
+    "domain:xlsdn.cn",
+    "domain:xlsdn.com",
+    "domain:yuesuoping.com"
+  ],
+  "ip": [
+    "114.98.177.194/31",
+    "114.98.177.196/32"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "Samsung",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:anrdoezrs.net",
+    "domain:galaxyappstore.com",
+    "domain:galaxymobile.jp",
+    "domain:game-platform.net",
+    "domain:knoxemm.com",
+    "domain:samsung.com",
+    "domain:samsungapps.com",
+    "domain:samsungcloud.com",
+    "domain:samsungdm.com",
+    "domain:samsungeshop.com.cn",
+    "domain:samsunggalaxyfriends.com",
+    "domain:samsungknox.com",
+    "domain:samsungqbe.com"
+  ]
+}

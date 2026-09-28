@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Olevod",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:haiwaikan.com",
+    "domain:iole.tv",
+    "domain:olehd.com",
+    "domain:olelive.com",
+    "olevod"
+  ]
+}

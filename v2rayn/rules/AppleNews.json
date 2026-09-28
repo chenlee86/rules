@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "AppleNews",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:gspe1-ssl.ls.apple.com",
+    "full:news-client-search.apple.com"
+  ]
+}

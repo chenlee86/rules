@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "VipShop",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:appsimg.com",
+    "domain:appvipshop.com",
+    "domain:vip.com",
+    "domain:vipstatic.com"
+  ]
+}

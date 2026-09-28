@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Mojitianqi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:airnut.com",
+    "domain:moji.com",
+    "domain:mojicb.com",
+    "domain:mojichina.com",
+    "domain:mojitest.com",
+    "domain:moweather.com",
+    "domain:xiaomo.cn"
+  ]
+}

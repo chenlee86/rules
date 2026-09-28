@@ -1,0 +1,30 @@
+{
+  "type": "field",
+  "remarks": "TianWeiChengXin",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:4006663999.cn",
+    "domain:6rencn.com",
+    "domain:dcocsp.cn",
+    "domain:ev-ssl.cn",
+    "domain:ev-ssl.com.cn",
+    "domain:fxg365.cn",
+    "domain:helloid.cn",
+    "domain:itrus.cn",
+    "domain:itrus.com",
+    "domain:itrus.com.cn",
+    "domain:itrus.net.cn",
+    "domain:itruscloud.com",
+    "domain:itrusign.cn",
+    "domain:itrusign.com",
+    "domain:mingjian365.cn",
+    "domain:mingjian365.com",
+    "domain:mingjian365.net",
+    "domain:mj365.club",
+    "domain:mj365.site",
+    "domain:mj365.vip",
+    "domain:nowhttps.com",
+    "domain:yunssl.cn",
+    "domain:yunssl.com"
+  ]
+}

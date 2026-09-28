@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "HoYoverse",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:genshinimpact.com",
+    "domain:honkaiimpact3.com",
+    "domain:honkaistarrail.com",
+    "domain:hoyo.link",
+    "domain:hoyolab.com",
+    "domain:hoyoverse.com",
+    "domain:juequling.com",
+    "domain:n0vadesktop.com",
+    "domain:starrails.com",
+    "domain:themisweeps.com",
+    "domain:yuanshen.com"
+  ]
+}

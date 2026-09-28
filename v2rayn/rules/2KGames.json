@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "2KGames",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:2k.com",
+    "domain:2kcoretech.online",
+    "domain:2kgames.com",
+    "domain:take2games.com"
+  ]
+}

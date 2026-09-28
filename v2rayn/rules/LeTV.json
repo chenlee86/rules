@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "LeTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:le.com",
+    "domain:lecloud.com",
+    "domain:lelecdn.com",
+    "domain:lemall.com",
+    "domain:letv.com",
+    "domain:letv8.com",
+    "domain:letvcdn.com",
+    "domain:letvcloud.com",
+    "domain:letvimg.com",
+    "domain:letvlive.com",
+    "domain:letvstore.com",
+    "domain:sanguowudi.com",
+    "domain:videougc.com"
+  ]
+}

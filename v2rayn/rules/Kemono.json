@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Kemono",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cooer.su",
+    "domain:coomer.party",
+    "domain:kemono.party",
+    "domain:kemono.su"
+  ]
+}

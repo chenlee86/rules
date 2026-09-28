@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "SMG",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cptn.tv",
+    "domain:sava.sh.cn",
+    "domain:smg.cn",
+    "domain:smg.sh.cn"
+  ]
+}

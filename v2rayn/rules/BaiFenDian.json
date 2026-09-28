@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "BaiFenDian",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:baifendian.com",
+    "domain:bfdcdn.com",
+    "domain:bfdcloud.com",
+    "domain:blingoffice.com",
+    "domain:marimall.cn",
+    "domain:mediaforce.cn",
+    "domain:pdeepmatrix.com",
+    "domain:percent.cn",
+    "domain:pertalk.cn",
+    "domain:xworld.net.cn"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Anthropic",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:servd-anthropic-website.b-cdn.net",
+    "domain:anthropic.com",
+    "domain:claude.ai"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Overcast",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:overcast.fm"
+  ]
+}

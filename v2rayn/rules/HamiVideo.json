@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "HamiVideo",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:hls-hichannel.cdn.hinet.net",
+    "domain:hamivideo.hinet.net",
+    "domain:ott.hinet.net",
+    "hamivideo.cdn.hinet.net"
+  ]
+}

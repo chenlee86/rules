@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "JianGuoYun",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:gdfgq.club",
+    "domain:jianguopuzi.com",
+    "domain:jianguoyun.com",
+    "domain:nutstore.net",
+    "domain:nutstorehq.com"
+  ]
+}

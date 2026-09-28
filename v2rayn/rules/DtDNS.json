@@ -1,0 +1,24 @@
+{
+  "type": "field",
+  "remarks": "DtDNS",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:3d-game.com",
+    "domain:4irc.com",
+    "domain:b0ne.com",
+    "domain:chatnook.com",
+    "domain:darktech.org",
+    "domain:deaftone.com",
+    "domain:dtdns.com",
+    "domain:dtdns.net",
+    "domain:effers.com",
+    "domain:etowns.net",
+    "domain:etowns.org",
+    "domain:flnet.org",
+    "domain:gotgeeks.com",
+    "domain:scieron.com",
+    "domain:slyip.com",
+    "domain:slyip.net",
+    "domain:suroot.com"
+  ]
+}

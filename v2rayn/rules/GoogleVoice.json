@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "GoogleVoice",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:lens.l.google.com"
+  ]
+}

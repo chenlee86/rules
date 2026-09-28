@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Tonec",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:internetdownloadmanager.com",
+    "domain:registeridm.com",
+    "domain:tonec.com"
+  ]
+}

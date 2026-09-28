@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Jable",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cdnlab.live",
+    "domain:jable.tv",
+    "domain:mushroomtrack.com"
+  ]
+}

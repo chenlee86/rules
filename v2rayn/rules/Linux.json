@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Linux",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:linux.org"
+  ]
+}

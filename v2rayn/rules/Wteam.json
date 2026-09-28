@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Wteam",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ads.wteam.xyz"
+  ]
+}

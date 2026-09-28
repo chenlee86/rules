@@ -1,0 +1,28 @@
+{
+  "type": "field",
+  "remarks": "Mozilla",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bugzilla.org",
+    "domain:crates.io",
+    "domain:docs.rs",
+    "domain:extensionworkshop.com",
+    "domain:firefox.com",
+    "domain:firefox.com.cn",
+    "domain:firefoxusercontent.com",
+    "domain:getpocket.com",
+    "domain:mdn.mozillademos.org",
+    "domain:media.prod.mdn.mozit.cloud",
+    "domain:mofoprod.net",
+    "domain:mozilla.com",
+    "domain:mozilla.community",
+    "domain:mozilla.net",
+    "domain:mozilla.org",
+    "domain:pocket-image-cache.com",
+    "domain:rust-lang.org",
+    "domain:rustup.rs",
+    "domain:seamonkey-project.org",
+    "domain:sentry.prod.mozaws.net",
+    "domain:thunderbird.net"
+  ]
+}

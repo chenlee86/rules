@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "KouDaiShiShang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:91ruyu.com",
+    "domain:bibikan.cn",
+    "domain:fang.xin",
+    "domain:fangxin.com",
+    "domain:geili.cn",
+    "domain:geilicdn.com",
+    "domain:kou6ai.cn",
+    "domain:koudai.cn",
+    "domain:koudai.com",
+    "domain:v5.cc",
+    "domain:vdian.com",
+    "domain:wdfangyi.com",
+    "domain:weidian-inc.com",
+    "domain:weidian.cc",
+    "domain:weidian.cn",
+    "domain:weidian.com",
+    "domain:weidianfans.com",
+    "domain:xihuan.com.cn",
+    "domain:youshop01.com",
+    "domain:youshop02.com",
+    "domain:youshop03.com",
+    "domain:youshop04.com"
+  ]
+}

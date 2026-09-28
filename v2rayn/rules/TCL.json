@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "TCL",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:alcatel-home.com",
+    "domain:alcatelmobile.com",
+    "domain:blackberry.com",
+    "domain:hmeng.cn",
+    "domain:hmeng.net.cn",
+    "domain:tcl.com",
+    "domain:tcl.com.cn"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "TelegramUS",
+  "outboundTag": "proxy",
+  "ip": [
+    "2001:b28:f23d::/48",
+    "91.108.12.0/22"
+  ]
+}

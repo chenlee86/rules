@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Sharethis",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:sharethis.com"
+  ]
+}

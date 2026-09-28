@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "Rarbg",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dyncdn.me",
+    "domain:proxyrarbg.org",
+    "domain:rarbg.bypassed.org",
+    "domain:rarbg.is",
+    "domain:rarbg.link",
+    "domain:rarbg.me",
+    "domain:rarbg.to",
+    "domain:rarbg.unblocked.vc",
+    "domain:rarbgaccess.org",
+    "domain:rarbgaccessed.org",
+    "domain:rarbgget.org",
+    "domain:rarbggo.org",
+    "domain:rarbgmirror.com",
+    "domain:rarbgmirror.org",
+    "domain:rarbgmirror.xyz",
+    "domain:rarbgproxy.org",
+    "domain:rarbgprx.org",
+    "domain:rarbgs.com",
+    "domain:rarbgto.org",
+    "domain:rarbgunblock.com",
+    "domain:rarbgunblock.org",
+    "domain:rarbgway.org"
+  ]
+}

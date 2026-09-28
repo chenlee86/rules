@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "Camera360",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:360in.com",
+    "domain:52photo.com",
+    "domain:c360dn.com",
+    "domain:camera360.com",
+    "domain:saladvideo.com",
+    "domain:yipai.info",
+    "domain:yipai360.com",
+    "domain:ypjc.cloud"
+  ]
+}

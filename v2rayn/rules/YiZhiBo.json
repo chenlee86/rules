@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "YiZhiBo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hifengli.com",
+    "domain:liexiulive.com",
+    "domain:sndks.com",
+    "domain:yizhibo.com",
+    "domain:yzbo.tv"
+  ]
+}

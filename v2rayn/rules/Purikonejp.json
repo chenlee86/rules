@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Purikonejp",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:api-priconne-redive.cygames.jp",
+    "domain:omotenashi.cygames.jp",
+    "domain:prd-priconne-redive.akamaized.net"
+  ]
+}

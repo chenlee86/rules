@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "NowE",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:nowe.com",
+    "domain:nowestatic.com"
+  ]
+}

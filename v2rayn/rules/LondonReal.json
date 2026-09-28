@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "LondonReal",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:freedomplatform.tv",
+    "domain:londonreal.tv"
+  ]
+}

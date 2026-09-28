@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Flurry",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:data.flurry.com"
+  ]
+}

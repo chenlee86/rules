@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "DaMai",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:baotoo.com",
+    "domain:damai.cn",
+    "domain:damaicdn.cn",
+    "domain:dmcdn.cn",
+    "domain:jtwsm.cn",
+    "domain:maikr.com",
+    "domain:maitix.com",
+    "domain:maitix.net",
+    "domain:piao.com.cn",
+    "domain:piaogroup.com",
+    "domain:yanchupiaojia.com"
+  ]
+}

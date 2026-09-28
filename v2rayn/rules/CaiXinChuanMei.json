@@ -1,0 +1,31 @@
+{
+  "type": "field",
+  "remarks": "CaiXinChuanMei",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:caing.cn",
+    "domain:caing.com",
+    "domain:caixin.com",
+    "domain:caixinmedia.cn",
+    "domain:caixinmedia.com",
+    "domain:caixinmedia.com.cn",
+    "domain:caixinonline.com",
+    "domain:healthpoint.cn",
+    "domain:healthpoint.com.cn",
+    "domain:icaing.cn",
+    "domain:jianhangcaifu.com",
+    "domain:lifetmt.cn",
+    "domain:lifetmt.com",
+    "domain:lifetmt.com.cn",
+    "domain:lifetmt.net",
+    "domain:lifetmt.org",
+    "domain:weinews.cn",
+    "domain:weinews.com.cn",
+    "domain:whyenjoy.com",
+    "domain:whyenjoy.com.cn",
+    "domain:wusuobuneng.cn",
+    "domain:wusuobuneng.com",
+    "domain:wusuobuneng.com.cn",
+    "domain:wusuobuneng.org"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "TrustWave",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:trustwave.com"
+  ]
+}

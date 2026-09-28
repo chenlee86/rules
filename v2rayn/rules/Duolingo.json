@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Duolingo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:duolingo.cn",
+    "domain:duolingo.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "PChome",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ecapi-pchome.cdn.hinet.net",
+    "domain:ecimg.tw",
+    "domain:pchome.com.tw",
+    "domain:pchomepay.com.tw",
+    "domain:pcloud.tw"
+  ]
+}

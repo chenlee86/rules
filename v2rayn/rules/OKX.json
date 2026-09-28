@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "OKX",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:okex.com",
+    "domain:oklink.com",
+    "domain:okx.com"
+  ]
+}

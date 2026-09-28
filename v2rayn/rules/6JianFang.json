@@ -1,0 +1,26 @@
+{
+  "type": "field",
+  "remarks": "6JianFang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:6.cn",
+    "domain:6.com.cn",
+    "domain:6imgcss.cn",
+    "domain:6resource.cn",
+    "domain:6rooms.com",
+    "domain:6static.cn",
+    "domain:6staticcdn.cn",
+    "domain:6webimg.cn",
+    "domain:ccpod.com",
+    "domain:faceroom.cn",
+    "domain:footbig.com",
+    "domain:huanpeng.com",
+    "domain:imgjs6.cn",
+    "domain:luyanhui.com",
+    "domain:sixresource.cn",
+    "domain:sixstatic.cn",
+    "domain:webimgs.cn",
+    "domain:wwwstatic.cn",
+    "domain:xiu123.cn"
+  ]
+}

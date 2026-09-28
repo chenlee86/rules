@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "BaoFengYingYin",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:baofeng.com",
+    "domain:baofeng.mobi",
+    "domain:baofeng.net",
+    "domain:baofengtv.com",
+    "domain:bfimg.com",
+    "domain:bfshow.cn",
+    "domain:bjtndao.org",
+    "domain:stormshow.cn"
+  ]
+}

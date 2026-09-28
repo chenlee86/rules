@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "Teambition",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:jianliao.com",
+    "domain:project.ai",
+    "domain:talk.ai",
+    "domain:tbapp.com",
+    "domain:tburl.in",
+    "domain:teambition.com",
+    "domain:teambition.io",
+    "domain:teambition.net",
+    "domain:teambitionapis.com",
+    "domain:today.ai"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "field",
+  "remarks": "FangZhengDianZi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cloudpress.cn",
+    "domain:cloudpub.cn",
+    "domain:fangzhengshufa.com",
+    "domain:founder.com.cn",
+    "domain:founderfx.cn",
+    "domain:founderfx.com.cn",
+    "domain:founderss.cn",
+    "domain:foundertype.com",
+    "domain:fzdzyun.cn",
+    "domain:fzdzyun.com",
+    "domain:fzdzyun.com.cn",
+    "domain:fzyun.cn",
+    "domain:fzyun.net",
+    "domain:newaircloud.com",
+    "domain:study-cloud.cn",
+    "domain:study-cloud.com",
+    "domain:w2press.cn",
+    "domain:wisestcloud.com",
+    "domain:xiezixiansheng.com"
+  ]
+}

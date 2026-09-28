@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Gitee",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:gitee.com",
+    "domain:gitee.io"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "AppStore",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:apps.apple.com",
+    "full:itunes.apple.com"
+  ]
+}

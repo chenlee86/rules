@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Bitauto",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bitauto.com",
+    "domain:bitautoimg.com",
+    "domain:cheyisou.com",
+    "domain:yccdn.com",
+    "domain:yiche.com"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "field",
+  "remarks": "AliPay",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:alipay",
+    "domain:alipay-corp.com",
+    "domain:alipay-eco.com",
+    "domain:alipay-inc.com",
+    "domain:alipay-traffic.com",
+    "domain:alipay.cn",
+    "domain:alipay.com",
+    "domain:alipay.com.cn",
+    "domain:alipay.hk",
+    "domain:alipay.net",
+    "domain:alipaydesign.com",
+    "domain:alipaydev.com",
+    "domain:alipaydns.com",
+    "domain:alipayeshop.com",
+    "domain:alipaylog.com",
+    "domain:alipaymo.com",
+    "domain:alipayobjects.com",
+    "domain:alipayplus.com",
+    "domain:ifaa.org.cn",
+    "domain:luohanacademy.com",
+    "domain:sinopayment.com.cn"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Zhipu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bigmodel.cn",
+    "domain:chatglm.cn",
+    "domain:z.ai",
+    "domain:zhipuai.cn",
+    "domain:zhipucn.com"
+  ]
+}

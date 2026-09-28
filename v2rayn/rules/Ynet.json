@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Ynet",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ynet.cn",
+    "domain:ynet.com",
+    "domain:ynet.com.cn"
+  ]
+}

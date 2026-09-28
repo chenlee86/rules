@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Maocloud",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:maoyun.com",
+    "domain:maoyuncloud.cn",
+    "domain:maoyuncloud.com"
+  ]
+}

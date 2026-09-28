@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Classic",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:asia.battle.net",
+    "full:europe.battle.net",
+    "full:useast.battle.net",
+    "full:uswest.battle.net"
+  ]
+}

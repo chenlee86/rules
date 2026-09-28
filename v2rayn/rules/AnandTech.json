@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "AnandTech",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:anandtech.com"
+  ]
+}

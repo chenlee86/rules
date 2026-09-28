@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Acplay",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:acplay.net",
+    "domain:dandanplay.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Atomdata",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:analytics-data.io",
+    "domain:atom-data.io",
+    "domain:ironbeast.io"
+  ]
+}

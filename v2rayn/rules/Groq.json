@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Groq",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:groq.com"
+  ]
+}

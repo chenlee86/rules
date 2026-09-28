@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "Funshion",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:9iwanwan.com",
+    "domain:9ixiuxiu.com",
+    "domain:fspcdn.com",
+    "domain:fun.tv",
+    "domain:funshion.com",
+    "domain:funshion.net",
+    "domain:funshion.tv",
+    "domain:ibidian.com",
+    "domain:jvcsmart.cn",
+    "domain:jvcsmart.com.cn"
+  ]
+}

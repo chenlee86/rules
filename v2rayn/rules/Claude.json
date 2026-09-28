@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Claude",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:cdn.usefathom.com",
+    "domain:anthropic.com",
+    "domain:claude.ai"
+  ]
+}

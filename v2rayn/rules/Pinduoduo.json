@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Pinduoduo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:pddpic.com",
+    "domain:pinduoduo.com",
+    "domain:yangkeduo.com"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "FengHuangWang",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fengcx.com",
+    "domain:fengedu.com",
+    "domain:fengzhibo.com.cn",
+    "domain:ifeng.com",
+    "domain:ifengimg.com",
+    "domain:ifengweekly.com",
+    "domain:phoenixcenter.cn",
+    "domain:phoenixtv.com",
+    "domain:phoenixtv.com.cn"
+  ]
+}

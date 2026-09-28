@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "SMZDM",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:faxianpindao.com",
+    "domain:quaolai.com",
+    "domain:smzdm.com",
+    "domain:smzdmimg.com",
+    "domain:valueq-sea.com",
+    "domain:wanwuzhinan.com",
+    "domain:zdm.net",
+    "domain:zdmimg.com",
+    "domain:zhidemai.com"
+  ]
+}

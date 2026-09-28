@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "ElevenLabs",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:elevenlabs.com",
+    "domain:elevenlabs.io"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "OpenRouter",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:openrouter.ai"
+  ]
+}

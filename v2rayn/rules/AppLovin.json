@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "AppLovin",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:applovin.com",
+    "domain:applvn.com"
+  ]
+}

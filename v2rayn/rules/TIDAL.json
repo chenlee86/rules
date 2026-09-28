@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "TIDAL",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:tidal-cms.s3.amazonaws.com",
+    "domain:tidal.com",
+    "domain:tidalhifi.com",
+    "domain:wimpmusic.com"
+  ]
+}

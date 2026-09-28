@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "VolcengineAI",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:ark.cn-beijing.volces.com",
+    "domain:doubao.com"
+  ]
+}

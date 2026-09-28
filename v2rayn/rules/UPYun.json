@@ -1,0 +1,23 @@
+{
+  "type": "field",
+  "remarks": "UPYun",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aicdn.com",
+    "domain:aicdn2.com",
+    "domain:aicdn3.com",
+    "domain:aicdn4.com",
+    "domain:aicdn5.com",
+    "domain:authbus.com",
+    "domain:oncdp.com",
+    "domain:shangketang.com",
+    "domain:shangzhibo.tv",
+    "domain:sktcdn.com",
+    "domain:upai.com",
+    "domain:upaiyun.com",
+    "domain:upcdn.net",
+    "domain:upyun.com",
+    "domain:yupoo.com",
+    "domain:zhidian-inc.cn"
+  ]
+}

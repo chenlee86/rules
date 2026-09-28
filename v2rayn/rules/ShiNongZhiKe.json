@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "ShiNongZhiKe",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:senseagro.cn",
+    "domain:senseagro.com",
+    "domain:senseagro.com.cn"
+  ]
+}

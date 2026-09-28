@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "LivePerson",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:liveperson.com",
+    "domain:liveperson.net",
+    "domain:lpsnmedia.net"
+  ]
+}

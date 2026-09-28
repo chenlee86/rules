@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "WeiZhiYunDong",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:dicom365.com",
+    "domain:dycom365.com",
+    "domain:wedcm.com",
+    "domain:weiyunyingxiang.com"
+  ]
+}

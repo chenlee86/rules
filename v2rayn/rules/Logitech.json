@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "Logitech",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:logi.com",
+    "domain:logicool.co.jp",
+    "domain:logicoolg.com",
+    "domain:logitech.biz",
+    "domain:logitech.com",
+    "domain:logitech.fr",
+    "domain:logitechg.com",
+    "domain:logitechg.fr",
+    "domain:worldsfastestgamer.net"
+  ]
+}

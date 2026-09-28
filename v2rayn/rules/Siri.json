@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Siri",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:guzzoni.apple.com"
+  ]
+}

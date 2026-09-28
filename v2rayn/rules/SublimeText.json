@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "SublimeText",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:packagecontrol.io",
+    "domain:sublimehq.com",
+    "domain:sublimemerge.com",
+    "domain:sublimetext.com"
+  ]
+}

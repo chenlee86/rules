@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "AddToAny",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:addtoany.com"
+  ]
+}

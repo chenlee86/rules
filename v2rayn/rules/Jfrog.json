@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Jfrog",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bintray.com",
+    "domain:jfrog.com",
+    "domain:jfrog.org"
+  ]
+}

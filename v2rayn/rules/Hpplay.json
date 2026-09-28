@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Hpplay",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hpplay.cn",
+    "domain:hpplay.com.cn",
+    "domain:mirrorcast.cn",
+    "domain:mirrorcast.com.cn",
+    "domain:mirrorcast.tv"
+  ]
+}

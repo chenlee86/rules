@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Kantv",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:imkan.tv"
+  ]
+}

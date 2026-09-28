@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "Gucci",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:chimeforchange.org",
+    "domain:gucci.cn",
+    "domain:gucci.com",
+    "domain:guccimuseo.com",
+    "domain:guccitimeless.com",
+    "domain:regiongold.com"
+  ]
+}

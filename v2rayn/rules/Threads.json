@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Threads",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:threads.net"
+  ]
+}

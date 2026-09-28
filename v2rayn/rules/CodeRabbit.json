@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "CodeRabbit",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:coderabbit.ai"
+  ]
+}

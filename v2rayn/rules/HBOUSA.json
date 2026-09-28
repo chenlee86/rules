@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "HBOUSA",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:wmff.warnermediacdn.com",
+    "domain:cinemax.com",
+    "domain:discomax.com",
+    "domain:h264.io",
+    "domain:hbomax.com",
+    "domain:hbomaxcdn.com",
+    "domain:hbomaxdash.s.llnwi.net",
+    "domain:hbonow.com",
+    "domain:max.com",
+    "domain:maxgo.com"
+  ]
+}

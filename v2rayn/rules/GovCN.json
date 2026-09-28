@@ -1,0 +1,23 @@
+{
+  "type": "field",
+  "remarks": "GovCN",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:91huayi.cn",
+    "domain:91huayi.com",
+    "domain:91huayi.net",
+    "domain:gov.cn",
+    "domain:heart301.cn",
+    "domain:henancme.net",
+    "domain:huayi.cn",
+    "domain:huayiweibo.com",
+    "domain:huayiyuan.com",
+    "domain:robot301.net",
+    "domain:roboticsurg301.net",
+    "domain:scncrc.com",
+    "domain:shiyanma.org.cn",
+    "domain:sqpx.org",
+    "domain:wsglw.com",
+    "domain:wsglw.net"
+  ]
+}

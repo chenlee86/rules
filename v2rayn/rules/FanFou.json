@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "FanFou",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:comox.cn",
+    "domain:comum.cn",
+    "domain:ifanfou.cn",
+    "domain:mlj130.cn"
+  ]
+}

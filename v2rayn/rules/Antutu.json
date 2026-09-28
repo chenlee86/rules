@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Antutu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:antutu.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "CGB",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:95508.com",
+    "domain:cgbchina.cn",
+    "domain:cgbchina.com.cn",
+    "domain:gdb.com.cn"
+  ]
+}

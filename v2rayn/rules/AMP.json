@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "AMP",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:amp.akamaized.net",
+    "domain:amp.dev",
+    "domain:ampproject.com",
+    "domain:ampproject.net",
+    "domain:ampproject.org"
+  ]
+}

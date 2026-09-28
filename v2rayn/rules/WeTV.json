@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "WeTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:wetv.qq.com",
+    "domain:iflix-images.akamaized.net",
+    "domain:iflix.com",
+    "domain:vv.video.qq.com",
+    "domain:wetv.vip",
+    "domain:wetvinfo.com"
+  ],
+  "ip": [
+    "150.109.28.51/32"
+  ]
+}

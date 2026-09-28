@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "AiQiCha",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aiqicha.baidu.com"
+  ]
+}

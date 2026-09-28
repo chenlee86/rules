@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "FlipBoard",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:flipboard.com",
+    "domain:flipchina.cn"
+  ]
+}

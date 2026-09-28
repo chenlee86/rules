@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "VidolTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:vidol.tv"
+  ]
+}

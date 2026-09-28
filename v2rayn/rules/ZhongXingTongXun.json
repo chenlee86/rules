@@ -1,0 +1,27 @@
+{
+  "type": "field",
+  "remarks": "ZhongXingTongXun",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:3gcare.cn",
+    "domain:nubia.cc",
+    "domain:nubia.cn",
+    "domain:nubia.com",
+    "domain:nubia.com.cn",
+    "domain:nubia.mobi",
+    "domain:nubia.net.cn",
+    "domain:redmagic.com",
+    "domain:shouhubao.com.cn",
+    "domain:zte.com.cn",
+    "domain:zte.net",
+    "domain:ztedevice.com",
+    "domain:ztedevice.com.cn",
+    "domain:ztedevices.com",
+    "domain:ztehotel.com",
+    "domain:ztehotel.com.cn",
+    "domain:ztehotel.net",
+    "domain:ztemall.com",
+    "domain:ztems.com",
+    "domain:zxingyun.com"
+  ]
+}

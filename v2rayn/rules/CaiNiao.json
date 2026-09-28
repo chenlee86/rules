@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "CaiNiao",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:56che.com",
+    "domain:cainiao-inc.cn",
+    "domain:cainiao-inc.com",
+    "domain:cainiao-inc.net",
+    "domain:cainiao.com",
+    "domain:cainiao.com.cn",
+    "domain:cainiaoyizhan.com",
+    "domain:guoguo-app.com",
+    "domain:xiaog.xyz"
+  ]
+}

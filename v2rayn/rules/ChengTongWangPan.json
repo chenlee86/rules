@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "ChengTongWangPan",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ctfile.com",
+    "domain:ctfile.net",
+    "domain:n802.com",
+    "domain:tv002.com"
+  ]
+}

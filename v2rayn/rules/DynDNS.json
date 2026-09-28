@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "DynDNS",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:blogdns.org",
+    "domain:dyn.com",
+    "domain:dyndns-ip.com",
+    "domain:dyndns-pics.com",
+    "domain:dyndns.org",
+    "domain:from-pr.com",
+    "domain:from-sd.com",
+    "domain:is-a-hunter.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Vancl",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:vancl.com",
+    "domain:vanclimg.com",
+    "domain:vcimg.com"
+  ]
+}

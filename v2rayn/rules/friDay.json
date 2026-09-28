@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "friDay",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fetnet.net",
+    "domain:friday.tw"
+  ]
+}

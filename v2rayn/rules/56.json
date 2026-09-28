@@ -1,0 +1,17 @@
+{
+  "type": "field",
+  "remarks": "56",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:56.com",
+    "domain:56img.com",
+    "domain:56imgs.com",
+    "domain:icaneasy.com",
+    "domain:icanvideo.com",
+    "domain:qf.com.cn",
+    "domain:qianfan.tv",
+    "domain:somama.com",
+    "domain:v-56.com",
+    "domain:vicovico.com"
+  ]
+}

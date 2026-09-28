@@ -1,0 +1,40 @@
+{
+  "type": "field",
+  "remarks": "AsianMedia",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:akmcdnoversea-tw.inter.iqiyi.com",
+    "full:akmcdnoversea-tw.inter.ptqy.gitv.tv",
+    "full:api.biliapi.com",
+    "full:api.biliapi.net",
+    "full:api.bilibili.com",
+    "full:app.biliapi.com",
+    "full:app.biliapi.net",
+    "full:app.bilibili.com",
+    "full:cache.video.iqiyi.com",
+    "full:chuangcachecdnoversea-tw.inter.iqiyi.com",
+    "full:chuangcachecdnoversea-tw.inter.ptqy.gitv.tv",
+    "full:grpc.biliapi.net",
+    "full:intl-rcd.iqiyi.com",
+    "full:intl-subscription.iqiyi.com",
+    "full:intl.iqiyi.com",
+    "full:m.bilibili.com",
+    "full:mobileso.bz.mgtv.com",
+    "full:upos-hz-mirrorakam.akamaized.net",
+    "full:www.bilibili.com",
+    "domain:api.mgtv.com",
+    "domain:iq.com",
+    "domain:wetv.vip",
+    "domain:wetvinfo.com",
+    "cn-hk-eq-bcache-"
+  ],
+  "ip": [
+    "103.44.56.0/22",
+    "116.211.202.206/32",
+    "116.211.202.216/32",
+    "118.26.120.0/24",
+    "118.26.32.0/23",
+    "23.40.241.251/32",
+    "23.40.242.10/32"
+  ]
+}

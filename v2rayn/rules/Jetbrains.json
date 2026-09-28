@@ -1,0 +1,21 @@
+{
+  "type": "field",
+  "remarks": "Jetbrains",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:datalore.io",
+    "domain:grazie.ai",
+    "domain:intellij.com",
+    "domain:intellij.net",
+    "domain:intellij.org",
+    "domain:jetbrains.ai",
+    "domain:jetbrains.com",
+    "domain:jetbrains.io",
+    "domain:jetbrains.net",
+    "domain:jetbrains.org",
+    "domain:jetbrains.space",
+    "domain:jetbrains.team",
+    "domain:kotlinconf.com",
+    "domain:kotlinlang.org"
+  ]
+}

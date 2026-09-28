@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "SlideShare",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:slideshare.com",
+    "domain:slideshare.net",
+    "domain:slidesharecdn.com"
+  ]
+}

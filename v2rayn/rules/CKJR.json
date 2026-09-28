@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "CKJR",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:51ckjr.com",
+    "domain:ckjr001.cn",
+    "domain:ckjr001.com",
+    "domain:ckjryy.com",
+    "domain:meituo.shop",
+    "domain:myckjr.cn",
+    "domain:myckjr.com",
+    "domain:qxckjr.com",
+    "domain:sxyckjr.com",
+    "domain:tengkackjr.com",
+    "domain:tengkaxx.com",
+    "domain:tjckjr.com",
+    "domain:tkckjr.com"
+  ]
+}

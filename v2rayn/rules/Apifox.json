@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Apifox",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:apifox.cn",
+    "domain:apifox.com"
+  ]
+}

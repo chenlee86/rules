@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "Nikke",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:anticheatexpert.com",
+    "domain:centauriglobal.com",
+    "domain:gamepass.com",
+    "domain:iegcom.com",
+    "domain:intlgame.com",
+    "domain:nikke-kr.com"
+  ],
+  "ip": [
+    "43.152.114.31/32"
+  ]
+}

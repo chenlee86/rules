@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "Ku6",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:feedsp.com",
+    "domain:juchang.cn",
+    "domain:juchang.com.cn",
+    "domain:ku6.cn",
+    "domain:ku6.com",
+    "domain:ku6.com.cn",
+    "domain:ku6.net",
+    "domain:ku6cdn.com",
+    "domain:ku6img.com",
+    "domain:ku6vms.com",
+    "domain:weiguan.com"
+  ]
+}

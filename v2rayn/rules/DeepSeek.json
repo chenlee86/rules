@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "DeepSeek",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:deepseek.com",
+    "deepseek"
+  ]
+}

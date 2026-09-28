@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "KingSmith",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:kingsmith.cn",
+    "domain:kingsmith.com.cn",
+    "domain:walkingpad.cn",
+    "domain:walkingpad.com"
+  ]
+}

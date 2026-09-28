@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Seasun",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:seasungames.com",
+    "domain:testplus.cn",
+    "domain:xishanju.com",
+    "domain:xoyo.com"
+  ]
+}

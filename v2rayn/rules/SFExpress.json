@@ -1,0 +1,27 @@
+{
+  "type": "field",
+  "remarks": "SFExpress",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:feng1.com",
+    "domain:fslinker.com",
+    "domain:hbjia.net",
+    "domain:rongechain.com",
+    "domain:sf-airlines.com",
+    "domain:sf-cityrush.com",
+    "domain:sf-express.com",
+    "domain:sf-financial.com",
+    "domain:sf-intra-city.com",
+    "domain:sf-jf.com",
+    "domain:sf-saas.cn",
+    "domain:sf-saas.com",
+    "domain:sf-saas.com.cn",
+    "domain:sf-tech.com.cn",
+    "domain:sf.cn",
+    "domain:sfair.com",
+    "domain:sfbuy.com",
+    "domain:sfcar.hk",
+    "domain:sffix.cn",
+    "domain:sfgy.org"
+  ]
+}

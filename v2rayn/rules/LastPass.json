@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "LastPass",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:lastpass.com"
+  ]
+}

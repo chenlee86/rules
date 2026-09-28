@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "VikACG",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:picjs.xyz",
+    "domain:vikacg.com"
+  ]
+}

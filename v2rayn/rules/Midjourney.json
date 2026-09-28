@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Midjourney",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:midjourney.com"
+  ]
+}

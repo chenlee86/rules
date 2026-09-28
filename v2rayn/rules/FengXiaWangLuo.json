@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "FengXiaWangLuo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:158c.com",
+    "domain:ali213.net",
+    "domain:fengyx.com",
+    "domain:fhyx.com",
+    "domain:iyouxia.com",
+    "domain:qu2345.com",
+    "domain:wy213.com",
+    "domain:wy213.net"
+  ]
+}

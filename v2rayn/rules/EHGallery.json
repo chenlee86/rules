@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "EHGallery",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:e-hentai.org",
+    "domain:ehgt.org",
+    "domain:ehwiki.org",
+    "domain:exhentai.org",
+    "domain:hath.network",
+    "domain:hentaiverse.org"
+  ],
+  "ip": [
+    "178.175.128.0/21"
+  ]
+}

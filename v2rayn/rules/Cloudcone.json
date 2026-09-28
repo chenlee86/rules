@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Cloudcone",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:clco.cc",
+    "domain:cloudc.one",
+    "domain:cloudcone.com",
+    "domain:cloudcone.net"
+  ]
+}

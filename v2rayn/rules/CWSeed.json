@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "CWSeed",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:cwtv-amd-akamai.akamaized.net",
+    "full:edge.cwtv-vod-ext.top.comcast.net",
+    "domain:cwseed.com",
+    "domain:cwtv.com",
+    "domain:thecwvideo.com"
+  ]
+}

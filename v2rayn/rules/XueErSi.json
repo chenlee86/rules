@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "XueErSi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:speiyou.com",
+    "domain:xesimg.com",
+    "domain:xueersi.com"
+  ]
+}

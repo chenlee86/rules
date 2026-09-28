@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Linguee",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:deepl.com",
+    "domain:linguee.com"
+  ]
+}

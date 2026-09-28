@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "AirChina",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:airchina.com.cn",
+    "domain:airchinacargo.com"
+  ]
+}

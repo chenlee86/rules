@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Flickr",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:flic.kr",
+    "domain:flickr",
+    "domain:flickr.com",
+    "domain:flickr.net",
+    "domain:staticflickr.com"
+  ]
+}

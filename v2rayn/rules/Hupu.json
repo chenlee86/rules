@@ -1,0 +1,19 @@
+{
+  "type": "field",
+  "remarks": "Hupu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:afpchinesesports.com",
+    "domain:goalhi.cn",
+    "domain:hellof1.com",
+    "domain:hoopchina.com",
+    "domain:hoopchina.com.cn",
+    "domain:hupu.com",
+    "domain:hupu.gg",
+    "domain:hupu.io",
+    "domain:hupucdn.com",
+    "domain:hupujrs.com",
+    "domain:shihuo.cn",
+    "domain:vwanjia.com"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "field",
+  "remarks": "KuaiDi100",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:baidiapp.com",
+    "domain:baidinet.com",
+    "domain:ckd.im",
+    "domain:kd100.com",
+    "domain:kuaidi100.com",
+    "domain:kuaidilab.com"
+  ]
+}

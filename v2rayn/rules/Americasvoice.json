@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Americasvoice",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:americasvoice.news"
+  ]
+}

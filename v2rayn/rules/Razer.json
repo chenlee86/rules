@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Razer",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:razer.com",
+    "domain:razerzone.com"
+  ]
+}

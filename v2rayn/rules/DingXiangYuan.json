@@ -1,0 +1,23 @@
+{
+  "type": "field",
+  "remarks": "DingXiangYuan",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:0dxy.cn",
+    "domain:biomart.cn",
+    "domain:centerwatch.cn",
+    "domain:crou.cn",
+    "domain:dxy.cn",
+    "domain:dxy.com",
+    "domain:dxy.me",
+    "domain:dxy.net",
+    "domain:dxycdn.com",
+    "domain:dxyer.cn",
+    "domain:dxyer.com",
+    "domain:guanlannet.com",
+    "domain:jobmd.cn",
+    "domain:linkmed.com.cn",
+    "domain:mdnews.cn",
+    "domain:pubmed.cn"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "HunanTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:hifuntv.com",
+    "domain:hitv.com",
+    "domain:hunaniptv.com",
+    "domain:hunantv.com",
+    "domain:imgo.tv",
+    "domain:mgtv.com",
+    "domain:tazai.com"
+  ]
+}

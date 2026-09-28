@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "W3schools",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:w3schools.com"
+  ]
+}

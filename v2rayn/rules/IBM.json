@@ -1,0 +1,19 @@
+{
+  "type": "field",
+  "remarks": "IBM",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:appdomain.cloud",
+    "domain:bluemix.com",
+    "domain:bluemix.net",
+    "domain:ibm",
+    "domain:ibm.com",
+    "domain:ibm.eu",
+    "domain:ibm.net",
+    "domain:ibm.us",
+    "domain:s-bluemix.net",
+    "domain:s81c.com",
+    "domain:weather.com",
+    "domain:weatherchannel"
+  ]
+}

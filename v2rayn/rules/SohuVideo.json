@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "SohuVideo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:itc.cn",
+    "domain:sohu.com",
+    "domain:sohu.com.cn",
+    "domain:sohucs.com"
+  ]
+}

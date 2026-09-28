@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "FreeCodeCamp",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:freecodecamp.org"
+  ]
+}

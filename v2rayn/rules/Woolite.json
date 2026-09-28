@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Woolite",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:woolite.ca",
+    "domain:woolite.cn",
+    "domain:woolite.com",
+    "domain:woolite.com.cn",
+    "domain:woolite.pl",
+    "domain:woolite.us",
+    "domain:woolitecarpet.com"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "Unity",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:multiplay.cn",
+    "domain:unity.cn",
+    "domain:unity.com",
+    "domain:unity3d.com",
+    "domain:unity3dusercontent.com",
+    "domain:unitychina.cn",
+    "domain:unityedu.cn",
+    "domain:unityedu.com",
+    "domain:unityedu.com.cn"
+  ]
+}

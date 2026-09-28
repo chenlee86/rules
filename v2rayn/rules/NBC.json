@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "NBC",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:nbcstreaming.sc.omtrdc.net",
+    "domain:bravotv.com",
+    "domain:cnbc.com",
+    "domain:cnbcfm.com",
+    "domain:eluniverso.com",
+    "domain:eonline.com",
+    "domain:msnbc.com",
+    "domain:nbc-sports.go-vip.net",
+    "domain:nbc.co",
+    "domain:nbc.com",
+    "domain:nbcnews.com",
+    "domain:nbcsports.com",
+    "domain:nbcsports.h-cdn.com",
+    "domain:nbcudigitaladops.com",
+    "domain:nbcuni.com",
+    "domain:oxygen.com",
+    "domain:peacocktv.com",
+    "domain:s-nbcnews.com",
+    "domain:syfy.com",
+    "domain:telemundo.com",
+    "domain:universalkids.com",
+    "domain:usanetwork.com"
+  ]
+}

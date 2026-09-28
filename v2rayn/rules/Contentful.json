@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Contentful",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:contentful.com",
+    "domain:ctfassets.net"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Nikkei",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:nikkei.co.jp",
+    "domain:nikkei.com",
+    "domain:nikkei.jp"
+  ]
+}

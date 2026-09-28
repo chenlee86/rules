@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "Speedtest",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fast.com",
+    "domain:ooklaserver.net",
+    "domain:speed.cloudflare.com",
+    "domain:speed.dler.io",
+    "speedtest"
+  ]
+}

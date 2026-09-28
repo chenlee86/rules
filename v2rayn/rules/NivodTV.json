@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "NivodTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:biggggg.com",
+    "domain:mudvod.tv",
+    "domain:nbys.tv",
+    "domain:nbys1.tv",
+    "domain:nbyy.tv",
+    "domain:newpppp.com",
+    "domain:vod360.net",
+    "nivod"
+  ]
+}

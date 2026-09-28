@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "NYPost",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:nypost.com",
+    "domain:nypost.help",
+    "domain:nypostreprints.com"
+  ]
+}

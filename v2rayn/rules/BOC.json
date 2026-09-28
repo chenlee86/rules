@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "BOC",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bank-of-china.com",
+    "domain:bankofchina.com",
+    "domain:boc.cn",
+    "domain:bocamchina.com",
+    "domain:bocaviation.com",
+    "domain:boccfc.cc",
+    "domain:boccfc.cn",
+    "domain:bocfullertonbank.com",
+    "domain:bocgi.com",
+    "domain:bocgins.com",
+    "domain:bochk.com",
+    "domain:bochkonline.com",
+    "domain:bocichina.cn",
+    "domain:bocichina.com",
+    "domain:bocichina.com.cn",
+    "domain:bocifunds.cn",
+    "domain:bocifunds.com",
+    "domain:bocifunds.com.cn",
+    "domain:bocigroup.com",
+    "domain:bocim.com",
+    "domain:bocservices.com.cn",
+    "domain:ftcwifi.com"
+  ]
+}

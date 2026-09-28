@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "BesTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bbtv.cn",
+    "domain:bestv.com.cn",
+    "domain:bestvcdn.cn",
+    "domain:bestvcdn.com",
+    "domain:bestvcdn.com.cn",
+    "domain:bestvcdn.net",
+    "domain:smgbb.cn"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "RedHat",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:3scale.net",
+    "domain:ansible.com",
+    "domain:feedhenry.org",
+    "domain:jboss.org",
+    "domain:noobaa.io",
+    "domain:redhat.com",
+    "domain:stackrox.io"
+  ]
+}

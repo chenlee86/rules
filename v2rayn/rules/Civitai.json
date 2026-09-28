@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Civitai",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:civitai.com"
+  ]
+}

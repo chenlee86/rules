@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Reabble",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:reabble.cn",
+    "domain:reabble.com"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "Anime",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:9anime.cz",
+    "domain:9anime.id",
+    "domain:9anime.to",
+    "domain:9anime.ws",
+    "domain:animedao-tv.com",
+    "domain:crunchyroll.com",
+    "domain:funimation.com",
+    "domain:gogo-load.com",
+    "domain:gogoanime.vc",
+    "domain:gogoanime.wiki",
+    "domain:gogocdn.net",
+    "domain:hidive.com",
+    "domain:vrv.co"
+  ]
+}

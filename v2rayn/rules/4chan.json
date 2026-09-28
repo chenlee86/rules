@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "4chan",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:4cdn.org",
+    "domain:4chan.org",
+    "domain:4channel.org"
+  ]
+}

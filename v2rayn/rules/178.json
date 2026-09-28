@@ -1,0 +1,29 @@
+{
+  "type": "field",
+  "remarks": "178",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:178.com",
+    "domain:178.net",
+    "domain:766.com",
+    "domain:766app.com",
+    "domain:766er.com",
+    "domain:766test.com",
+    "domain:a9vg.com",
+    "domain:bigccq.cn",
+    "domain:bjyueshenzj.com",
+    "domain:carry6.cn",
+    "domain:carry6.com",
+    "domain:carry6.net",
+    "domain:dospy.com",
+    "domain:nga.cn",
+    "domain:nga.wiki",
+    "domain:ngabbs.com",
+    "domain:ngacn.cc",
+    "domain:psnine.com",
+    "domain:stargame.com",
+    "domain:tgbus.com",
+    "domain:tgbusdata.cn",
+    "domain:xyous.com"
+  ]
+}

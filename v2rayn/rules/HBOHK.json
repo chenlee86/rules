@@ -1,0 +1,31 @@
+{
+  "type": "field",
+  "remarks": "HBOHK",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:wmff.warnermediacdn.com",
+    "domain:hboasia.com",
+    "domain:hboasia1-i.akamaihd.net",
+    "domain:hboasia2-i.akamaihd.net",
+    "domain:hboasia3-i.akamaihd.net",
+    "domain:hboasia4-i.akamaihd.net",
+    "domain:hboasia5-i.akamaihd.net",
+    "domain:hboasialive.akamaized.net",
+    "domain:hbogo.co.th",
+    "domain:hbogo.com",
+    "domain:hbogo.eu",
+    "domain:hbogoasia.com",
+    "domain:hbogoasia.hk",
+    "domain:hbogoasia.id",
+    "domain:hbogoasia.ph",
+    "domain:hbogoasia.sg",
+    "domain:hbogoasia.tw",
+    "domain:hbogoprod-vod.akamaized.net",
+    "domain:hbomaxcdn.com",
+    "domain:now-ashare.com",
+    "domain:now-tv.com",
+    "domain:now.com.hk",
+    "domain:nowe.com",
+    "domain:nowe.hk"
+  ]
+}

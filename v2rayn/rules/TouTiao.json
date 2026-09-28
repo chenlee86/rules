@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "TouTiao",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:toutiaoapi.com",
+    "domain:toutiaoimg.com",
+    "domain:toutiaostatic.com",
+    "domain:toutiaovod.com",
+    "toutiao"
+  ]
+}

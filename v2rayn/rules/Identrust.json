@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Identrust",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:identrust.co.uk",
+    "domain:identrust.com",
+    "domain:identrust.net"
+  ]
+}

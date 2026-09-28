@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "AdColony",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:adcolony.com"
+  ]
+}

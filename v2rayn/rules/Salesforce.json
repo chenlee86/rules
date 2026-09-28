@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "Salesforce",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:force.com",
+    "domain:heroku.com",
+    "domain:herokuapp.com",
+    "domain:herokucdn.com",
+    "domain:mulesoft.com",
+    "domain:salesforce.com",
+    "domain:salesforce.org",
+    "domain:salesforceliveagent.com",
+    "domain:sfdcdigital.com",
+    "domain:sfdcstatic.com",
+    "domain:tableau.com",
+    "domain:trailblazer.me",
+    "domain:trailhead.com"
+  ]
+}

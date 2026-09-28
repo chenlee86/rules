@@ -1,0 +1,24 @@
+{
+  "type": "field",
+  "remarks": "ZhiYinManKe",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:51kanmanhua.com",
+    "domain:mkdata.top",
+    "domain:mkpush.com",
+    "domain:mkzcdn.com",
+    "domain:mkzhan.cn",
+    "domain:mkzhan.com",
+    "domain:mkzhan.com.cn",
+    "domain:mkzhan.net",
+    "domain:xiaomingtaiji.cc",
+    "domain:xiaomingtaiji.cn",
+    "domain:xiaomingtaiji.com",
+    "domain:xiaomingtaiji.com.cn",
+    "domain:xiaomingtaiji.net",
+    "domain:xiaoshuohui.com.cn",
+    "domain:xiaoshuohui.net",
+    "domain:zymk.cn",
+    "domain:zymkcdn.com"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Gigabyte",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aorus.com",
+    "domain:aoruszone.cn",
+    "domain:gigabyte.cn",
+    "domain:gigabyte.com",
+    "domain:gigabyte2.azureedge.net",
+    "domain:sa78gs.wpc.edgecastcdn.net",
+    "domain:sni1dcb6gl.wpc.edgecastcdn.net"
+  ]
+}

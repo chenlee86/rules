@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "MiniMax",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:api.minimax.io",
+    "full:api.minimaxi.com",
+    "domain:hailuoai.com",
+    "domain:xingyeai.com"
+  ]
+}

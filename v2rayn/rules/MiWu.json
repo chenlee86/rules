@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "MiWu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:miiiw.cn",
+    "domain:miiiw.com",
+    "domain:miiiw.net"
+  ]
+}

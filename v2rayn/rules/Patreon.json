@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Patreon",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:live-patreon-marketing.pantheonsite.io",
+    "domain:patreon.com",
+    "domain:patreoncommunity.com",
+    "domain:patreonusercontent.com"
+  ]
+}

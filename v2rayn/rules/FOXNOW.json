@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "FOXNOW",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:fox.com",
+    "domain:foxdcg.com",
+    "domain:uplynk.com"
+  ]
+}

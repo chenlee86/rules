@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "ParamountPlus",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:cbsi.live.ott.irdeto.com",
+    "full:cbsplaylistserver.aws.syncbak.com",
+    "full:cbsservice.aws.syncbak.com",
+    "full:link.theplatform.com",
+    "domain:cbsaavideo.com",
+    "domain:cbsi.com",
+    "domain:cbsivideo.com",
+    "domain:paramountplus.com",
+    "domain:pplusstatic.com"
+  ]
+}

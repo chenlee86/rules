@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Telekom",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:telekom.com",
+    "domain:telekom.de",
+    "domain:telesec.de"
+  ]
+}

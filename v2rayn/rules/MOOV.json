@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "MOOV",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:moov.hk",
+    "domain:mtg.now.com"
+  ]
+}

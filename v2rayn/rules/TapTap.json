@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "TapTap",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:tap.io",
+    "domain:taptap.tw"
+  ]
+}

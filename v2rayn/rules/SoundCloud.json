@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "SoundCloud",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:p-cdn.us",
+    "domain:sndcdn.com",
+    "domain:soundcloud.com"
+  ]
+}

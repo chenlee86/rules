@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "AOL",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:aol.ca",
+    "domain:aol.co.uk",
+    "domain:aol.com",
+    "domain:aolnews.com"
+  ]
+}

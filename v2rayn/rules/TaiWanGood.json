@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "TaiWanGood",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:hamifans.emome.net",
+    "domain:skyking.com.tw"
+  ]
+}

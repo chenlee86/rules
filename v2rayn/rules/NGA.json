@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "NGA",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:178.com",
+    "domain:nga.cn",
+    "domain:ngabbs.com",
+    "domain:ngacn.cc"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Embl",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:ebi.ac.uk",
+    "domain:embl-hamburg.de",
+    "domain:embl.de",
+    "domain:embl.fr",
+    "domain:embl.it",
+    "domain:embl.org",
+    "domain:emblstatic.net"
+  ]
+}

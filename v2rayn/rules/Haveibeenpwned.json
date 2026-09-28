@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Haveibeenpwned",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:haveibeenpwned.com",
+    "domain:pwnedpasswords.com"
+  ]
+}

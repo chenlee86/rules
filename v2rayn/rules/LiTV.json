@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "LiTV",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:litvfreemobile-hichannel.cdn.hinet.net",
+    "domain:litv.tv"
+  ]
+}

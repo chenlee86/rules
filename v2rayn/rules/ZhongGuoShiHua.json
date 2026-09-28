@@ -1,0 +1,12 @@
+{
+  "type": "field",
+  "remarks": "ZhongGuoShiHua",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:sinopec-usa.com",
+    "domain:sinopec.com",
+    "domain:sinopecgroup.com",
+    "domain:sinopecnews.com.cn",
+    "domain:sinopecsales.com"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "field",
+  "remarks": "JOOX",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:i-joox.com",
+    "domain:joox.com",
+    "domain:sanook.com",
+    "jooxweb-api"
+  ],
+  "ip": [
+    "119.28.182.0/23",
+    "203.205.234.0/23"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Manus",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:manus.im",
+    "domain:manuscdn.com"
+  ]
+}

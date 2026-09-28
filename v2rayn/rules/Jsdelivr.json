@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "Jsdelivr",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:esm.run",
+    "domain:jsdelivr.com",
+    "domain:jsdelivr.net"
+  ]
+}

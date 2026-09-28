@@ -1,0 +1,26 @@
+{
+  "type": "field",
+  "remarks": "51Job",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:51hr.com",
+    "domain:51ideal.com",
+    "domain:51jingying.com",
+    "domain:51job.com",
+    "domain:51jobcdn.com",
+    "domain:51laiqiang.com",
+    "domain:51mdd.com",
+    "domain:51miduoduo.com",
+    "domain:coolping.com",
+    "domain:correlation-one.cn",
+    "domain:ibmcampus.com",
+    "domain:maketion.com",
+    "domain:myyjs.com",
+    "domain:wuyoudagong.com",
+    "domain:xinghua.org.cn",
+    "domain:yingjiesheng.com",
+    "domain:yingjiesheng.net",
+    "domain:yingjiesheng.org",
+    "domain:zhiding.com.cn"
+  ]
+}

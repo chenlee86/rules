@@ -1,0 +1,20 @@
+{
+  "type": "field",
+  "remarks": "Douyu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bytefcdnrd.com",
+    "domain:douyu.com",
+    "domain:douyu.tv",
+    "domain:douyuba.cn",
+    "domain:douyucdn.cn",
+    "domain:douyucdn2.cn",
+    "domain:douyupcdn.cn",
+    "domain:douyuscdn.com",
+    "domain:douyutv.com",
+    "domain:doyonoc.com",
+    "domain:edgesrv.com",
+    "domain:guguyuyin.com",
+    "domain:oywtv.com"
+  ]
+}

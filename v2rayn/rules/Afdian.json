@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Afdian",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:afdian.net",
+    "domain:afdiancdn.com"
+  ]
+}

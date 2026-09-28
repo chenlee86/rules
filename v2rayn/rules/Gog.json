@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Gog",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:gog.salesmanago.com",
+    "domain:gog-statics.com",
+    "domain:gog.com",
+    "domain:gog.qtlglb.com"
+  ]
+}

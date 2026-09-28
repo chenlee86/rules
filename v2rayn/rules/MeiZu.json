@@ -1,0 +1,22 @@
+{
+  "type": "field",
+  "remarks": "MeiZu",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:flyme.cn",
+    "domain:flyme.com",
+    "domain:flyme.net",
+    "domain:flymeauto.com",
+    "domain:lipro.com",
+    "domain:lipro.net",
+    "domain:mblu.com",
+    "domain:meiklife.cn",
+    "domain:meizu.cn",
+    "domain:meizu.com",
+    "domain:meizu.com.hk",
+    "domain:meizuapi.com",
+    "domain:mklink.com.cn",
+    "domain:mzres.com",
+    "domain:mzssp.cn"
+  ]
+}

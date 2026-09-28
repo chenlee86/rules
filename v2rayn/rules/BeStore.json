@@ -1,0 +1,10 @@
+{
+  "type": "field",
+  "remarks": "BeStore",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:517lppz.com",
+    "domain:lppz.com",
+    "domain:lppzimg.com"
+  ]
+}

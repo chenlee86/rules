@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Cohere",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cohere.ai",
+    "domain:cohere.com"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "field",
+  "remarks": "Opera",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:1npq4.tk",
+    "domain:coastbyopera.com",
+    "domain:gamingbrowsers.com",
+    "domain:opera-api.com",
+    "domain:opera-api2.com",
+    "domain:opera-browser.com",
+    "domain:opera-mini.net",
+    "domain:opera.com",
+    "domain:opera.software",
+    "domain:operacdn.com",
+    "domain:operagx.com",
+    "domain:operasoftware.com",
+    "domain:otvs.tv",
+    "domain:xn--cer18jcpe41t.com"
+  ],
+  "ip": [
+    "141.0.8.0/21",
+    "185.26.180.0/22",
+    "195.189.142.0/23",
+    "2001:4c28::/32",
+    "37.228.104.0/21",
+    "77.111.244.0/22",
+    "82.145.208.0/20",
+    "91.203.97.0/24"
+  ]
+}

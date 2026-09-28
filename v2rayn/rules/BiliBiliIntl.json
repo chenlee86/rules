@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "BiliBiliIntl",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:bilibili.tv"
+  ]
+}

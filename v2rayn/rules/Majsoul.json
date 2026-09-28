@@ -1,0 +1,18 @@
+{
+  "type": "field",
+  "remarks": "Majsoul",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:game.maj-soul.com",
+    "domain:gateway-cdn.maj-soul.com",
+    "domain:gateway-hw.maj-soul.com",
+    "domain:gateway-sy.catmjstudio.com",
+    "domain:gateway-sy.maj-soul.com",
+    "domain:gateway-v2.maj-soul.com",
+    "domain:lb-cdn.maj-soul.com",
+    "domain:lb-hw.maj-soul.com",
+    "domain:lb-sy.maj-soul.com",
+    "domain:lb-v2.maj-soul.com",
+    "domain:majsoul-hk-client.cn-hongkong.log.aliyuncs.com"
+  ]
+}

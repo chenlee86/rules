@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "CHT",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:cht.com.tw",
+    "domain:chtf.org.tw",
+    "domain:emome.net",
+    "domain:gtlsca.nat.gov.tw",
+    "domain:hinet.net",
+    "domain:litv.tv",
+    "domain:xuite.net"
+  ]
+}

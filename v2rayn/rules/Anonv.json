@@ -1,0 +1,9 @@
+{
+  "type": "field",
+  "remarks": "Anonv",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:anon-v.com",
+    "domain:anon-v.lol"
+  ]
+}

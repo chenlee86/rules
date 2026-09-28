@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Teams",
+  "outboundTag": "proxy",
+  "domain": [
+    "full:teams.events.data.microsoft.com",
+    "domain:teams.cdn.live.net",
+    "domain:teams.live.com",
+    "domain:teams.microsoft.com"
+  ]
+}

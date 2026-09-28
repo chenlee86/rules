@@ -1,0 +1,16 @@
+{
+  "type": "field",
+  "remarks": "WIX",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:editorx.com",
+    "domain:parastorage.com",
+    "domain:wix-code.com",
+    "domain:wix.com",
+    "domain:wixanswers.com",
+    "domain:wixapps.net",
+    "domain:wixmp.com",
+    "domain:wixsite.com",
+    "domain:wixstatic.com"
+  ]
+}

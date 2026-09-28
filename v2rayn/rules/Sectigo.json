@@ -1,0 +1,14 @@
+{
+  "type": "field",
+  "remarks": "Sectigo",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:enterprisessl.com",
+    "domain:hackerguardian.com",
+    "domain:instantssl.com",
+    "domain:optimumssl.com",
+    "domain:positivessl.com",
+    "domain:sectigo.com",
+    "domain:usertrust.com"
+  ]
+}

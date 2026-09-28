@@ -1,0 +1,11 @@
+{
+  "type": "field",
+  "remarks": "Arphic",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:arphic.com",
+    "domain:arphic.com.cn",
+    "domain:arphic.com.tw",
+    "domain:ifontcloud.com"
+  ]
+}

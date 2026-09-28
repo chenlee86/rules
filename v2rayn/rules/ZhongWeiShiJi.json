@@ -1,0 +1,24 @@
+{
+  "type": "field",
+  "remarks": "ZhongWeiShiJi",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:afdvr.cc",
+    "domain:aiwei365.com.cn",
+    "domain:aiwei365.net.cn",
+    "domain:cloudsee.com",
+    "domain:cloudsee.net",
+    "domain:cloudseetech.com",
+    "domain:jovcloud.com",
+    "domain:jovetech.cn",
+    "domain:jovetech.com",
+    "domain:jovision.cn",
+    "domain:jovision.com",
+    "domain:jovisionai.com",
+    "domain:jovmall.com",
+    "domain:nvsip.com",
+    "domain:soovvi.com",
+    "domain:sunywo.com",
+    "domain:xunvision.com"
+  ]
+}

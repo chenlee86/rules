@@ -1,0 +1,8 @@
+{
+  "type": "field",
+  "remarks": "Peacock",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:peacocktv.com"
+  ]
+}

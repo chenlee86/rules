@@ -1,0 +1,24 @@
+{
+  "type": "field",
+  "remarks": "Himalaya",
+  "outboundTag": "proxy",
+  "domain": [
+    "domain:9nali.com",
+    "domain:conchdate.com",
+    "domain:himalaya.com",
+    "domain:himalaya.cool",
+    "domain:qingxuetang.com",
+    "domain:soundconch.com",
+    "domain:tableauxmly.com",
+    "domain:xima.tv",
+    "domain:ximalaya.com",
+    "domain:ximalaya.fm",
+    "domain:ximalaya.tv",
+    "domain:ximalayadata.com",
+    "domain:xmcdn.com",
+    "domain:zhishif.com",
+    "domain:zhishinn.com",
+    "domain:zhishiu.com",
+    "domain:zhishiv.com"
+  ]
+}
