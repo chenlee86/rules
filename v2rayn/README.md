@@ -28,3 +28,26 @@
 ## 同步
 
 `rule/` 目录随上游仓库更新时，重新运行 `python convert_v2rayn.py` 即可重新生成 `v2rayn/rules/` 下的全部文件。
+
+## sing-box 规则集（v2rayN 的"规则集设置"对话框）
+
+v2rayN 较新版本内置 sing-box 核心，规则集需要用 sing-box 的 rule-set JSON 格式（字段为 `domain` / `domain_suffix` / `domain_keyword` / `ip_cidr`，套在 `{"version":1,"rules":[...]}` 里），与上面 `v2rayn/rules/` 下的 v2ray 经典 `routing.rules` 格式**不通用**。
+
+对应的 sing-box 格式文件在 [`v2rayn/singbox/`](./singbox)，同样由 `convert_singbox.py` 从 `rule/*.list` 自动生成。
+
+### 导入方法
+
+打开 v2rayN 的「规则集设置」窗口：
+
+- **方式一：填自定义 sing-box rule-set 的 URL**（推荐，能跟着仓库更新）
+  在"自定义 sing-box rule-set"框里填入对应分类文件的 raw 链接，例如：
+  `https://raw.githubusercontent.com/chenlee86/rules/main/v2rayn/singbox/Netflix.json`
+  再填"别名"，点"确定"。
+- **方式二：从文件中导入规则**
+  先把 `v2rayn/singbox/xxx.json` 下载到本地，再在对话框顶部点"从文件中导入规则"选择该文件。
+- **方式三：从剪贴板中导入规则**
+  打开对应 json 文件复制全部内容，点"从剪贴板中导入规则"粘贴。
+- **方式四：从订阅 Url 中导入规则**
+  同方式一，用于批量订阅场景。
+
+三种格式二选一即可：只用 sing-box 核心就用 `singbox/`，走经典 v2ray 核心路由规则就用 `rules/`。

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bigmodel.cn",
+        "chatglm.cn",
+        "z.ai",
+        "zhipuai.cn",
+        "zhipucn.com"
+      ]
+    }
+  ]
+}

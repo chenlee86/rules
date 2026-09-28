@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hanime.tv",
+        "hanime1.me",
+        "hembed.com"
+      ]
+    }
+  ]
+}

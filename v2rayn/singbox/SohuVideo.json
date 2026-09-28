@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "itc.cn",
+        "sohu.com",
+        "sohu.com.cn",
+        "sohucs.com"
+      ]
+    }
+  ]
+}

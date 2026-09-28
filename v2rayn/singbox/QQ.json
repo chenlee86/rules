@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mqqurl.com",
+        "qlogo.cn",
+        "qq.com",
+        "qq.com.cn",
+        "qqmail.com",
+        "qqopenapp.com"
+      ]
+    }
+  ]
+}

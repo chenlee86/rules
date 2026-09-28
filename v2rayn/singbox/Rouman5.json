@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "rmcdn5.xyz",
+        "rmcdn6.xyz",
+        "rmcdn7.xyz",
+        "rouman5.com"
+      ]
+    }
+  ]
+}

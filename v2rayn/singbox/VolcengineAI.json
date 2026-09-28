@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ark.cn-beijing.volces.com"
+      ],
+      "domain_suffix": [
+        "doubao.com"
+      ]
+    }
+  ]
+}
