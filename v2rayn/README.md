@@ -51,3 +51,37 @@ v2rayN 较新版本内置 sing-box 核心，规则集需要用 sing-box 的 rule
   同方式一，用于批量订阅场景。
 
 三种格式二选一即可：只用 sing-box 核心就用 `singbox/`，走经典 v2ray 核心路由规则就用 `rules/`。
+
+## 分组合并规则集（类似 Clash 的 Rule Provider，推荐日常使用）
+
+逐个分类导入太麻烦，[`v2rayn/singbox-groups/`](./singbox-groups) 把常用分类合并成了 10 个大类，一个分类只需导入一次：
+
+| 分组文件 | 合并的原始规则 | 建议出站 |
+| --- | --- | --- |
+| `AI.json` | ai / OpenAI / ChatGPT / Claude / Gemini / BardAI / Copilot / MetaAI / JetBrainsAI / VolcengineAI / Civitai | proxy |
+| `Google.json` | Google / GoogleDrive / GoogleEarth / GoogleFCM / GoogleSearch / GoogleVoice | proxy |
+| `YouTube.json` | YouTube / YouTubeMusic | proxy |
+| `TikTok.json` | TikTok | proxy |
+| `Telegram.json` | Telegram / TelegramNL / TelegramSG / TelegramUS | proxy |
+| `Streaming.json` | Netflix / Disney / Spotify | proxy |
+| `Microsoft.json` | Microsoft / MicrosoftEdge | proxy |
+| `Apple.json` | 所有 Apple* 分类 | proxy |
+| `GitHub.json` | GitHub | proxy |
+| `ChinaDirect.json` | China / ChinaMax 系列 / ChinaMobile / ChinaTelecom / ChinaUnicom / ChinaNews / ChinaIPs 系列 / ASN-CN / IPs-CN / AmazonCN / GovCN | **direct** |
+
+由 `convert_singbox_groups.py` 从 `rule/*.list` 自动合并生成，每个分组已去重；[`manifest.json`](./singbox-groups/manifest.json) 记录了每个分组包含哪些原始文件及条目数，方便核对或自行调整分组。
+
+### 导入方法
+
+在「规则集设置」窗口，对每个分组重复一次（一共只需 10 次，而不是 766 次）：
+
+1. 「别名」填分组名，比如 `AI`
+2. 「自定义 sing-box rule-set」填对应链接：
+   `https://raw.githubusercontent.com/chenlee86/rules/main/v2rayn/singbox-groups/AI.json`
+3. 点「确定」保存
+
+保存完规则集后，还需要在 v2rayN 的**路由规则**里为每个规则集绑定出站（`AI`/`Google`/`YouTube`/`TikTok`/`Telegram`/`Streaming`/`Microsoft`/`Apple`/`GitHub` 这 9 个走 `proxy`，`ChinaDirect` 走 `direct`），否则规则集只是被导入，不会生效。
+
+### 自定义分组
+
+想调整分组（比如把 Apple 也改成 direct，或者把某个网站单独拆出来），改 `convert_singbox_groups.py` 顶部的 `GROUPS` 字典重新运行即可，源数据始终来自 `rule/*.list`。

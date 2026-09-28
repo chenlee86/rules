@@ -1,0 +1,141 @@
+[
+  {
+    "group": "AI",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "ai.list",
+      "OpenAI.list",
+      "ChatGPT.list",
+      "Claude.list",
+      "Gemini.list",
+      "BardAI.list",
+      "Copilot.list",
+      "MetaAI.list",
+      "JetBrainsAI.list",
+      "VolcengineAI.list",
+      "Civitai.list"
+    ],
+    "domain_count": 147,
+    "ip_count": 2
+  },
+  {
+    "group": "Google",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "Google.list",
+      "GoogleDrive.list",
+      "GoogleEarth.list",
+      "GoogleFCM.list",
+      "GoogleSearch.list",
+      "GoogleVoice.list"
+    ],
+    "domain_count": 726,
+    "ip_count": 31
+  },
+  {
+    "group": "YouTube",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "YouTube.list",
+      "YouTubeMusic.list"
+    ],
+    "domain_count": 181,
+    "ip_count": 3
+  },
+  {
+    "group": "TikTok",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "TikTok.list"
+    ],
+    "domain_count": 31,
+    "ip_count": 0
+  },
+  {
+    "group": "Telegram",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "Telegram.list",
+      "TelegramNL.list",
+      "TelegramSG.list",
+      "TelegramUS.list"
+    ],
+    "domain_count": 25,
+    "ip_count": 17
+  },
+  {
+    "group": "Streaming",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "Netflix.list",
+      "Disney.list",
+      "Spotify.list"
+    ],
+    "domain_count": 236,
+    "ip_count": 1121
+  },
+  {
+    "group": "Microsoft",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "Microsoft.list",
+      "MicrosoftEdge.list"
+    ],
+    "domain_count": 672,
+    "ip_count": 0
+  },
+  {
+    "group": "Apple",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "Apple.list",
+      "AppleDaily.list",
+      "AppleDev.list",
+      "AppleFirmware.list",
+      "AppleHardware.list",
+      "AppleID.list",
+      "AppleMail.list",
+      "AppleMedia.list",
+      "AppleMusic.list",
+      "AppleNews.list",
+      "AppleProxy.list",
+      "AppleTV.list"
+    ],
+    "domain_count": 579,
+    "ip_count": 13
+  },
+  {
+    "group": "GitHub",
+    "outbound_suggestion": "proxy",
+    "source_lists": [
+      "GitHub.list"
+    ],
+    "domain_count": 31,
+    "ip_count": 0
+  },
+  {
+    "group": "ChinaDirect",
+    "outbound_suggestion": "direct",
+    "source_lists": [
+      "China.list",
+      "ChinaMax.list",
+      "ChinaMaxNoIP.list",
+      "ChinaMaxNoMedia.list",
+      "ChinaMedia.list",
+      "ChinaNoMedia.list",
+      "ChinaMobile.list",
+      "ChinaTelecom.list",
+      "ChinaUnicom.list",
+      "ChinaNews.list",
+      "ChinaIPs.list",
+      "ChinaIPsBGP.list",
+      "ChinaDNS.list",
+      "ASN-CN.list",
+      "IPs-CN.list",
+      "AmazonCN.list",
+      "GovCN.list"
+    ],
+    "domain_count": 604,
+    "ip_count": 24427
+  }
+]
