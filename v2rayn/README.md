@@ -101,3 +101,29 @@ v2rayN 较新版本内置 sing-box 核心，规则集需要用 sing-box 的 rule
 获取方式：
 - 直接复制 [`v2rayn/routing-rules.json`](https://raw.githubusercontent.com/chenlee86/rules/main/v2rayn/routing-rules.json) 内容，粘贴进 v2rayN 路由设置的规则列表（支持整体导入 JSON 数组）
 - 或在路由设置里用「从 Url 导入」，直接填上面的 raw 链接
+
+## 全量整合版路由规则（AI/Google/YouTube/TikTok/Telegram/Streaming/Microsoft/Apple/GitHub 都在里面）
+
+[`v2rayn/routing-rules-full.json`](./routing-rules-full.json) 是把 `singbox-groups/` 里各分组的完整域名/IP 列表直接展开，合并进一份 v2rayN 路由规则数组，一次导入即可，不用分开导入规则集：
+
+1. UDP 443 阻断
+2. 局域网直连
+3. 广告拦截
+4. **AI**（proxy）
+5. **Google**（proxy）
+6. **YouTube**（proxy）
+7. **TikTok**（proxy）
+8. **Telegram**（proxy）
+9. **Streaming**（Netflix/Disney+/Spotify，proxy）
+10. **Microsoft/Edge**（proxy）
+11. **Apple**（proxy）
+12. **GitHub**（proxy）
+13. 国内直连（geoip:cn / geosite:cn）
+14. 其余全部走代理
+
+由 `build_full_routing.py` 从 `v2rayn/singbox-groups/*.json` 自动生成，文件较大（约 700+ 条域名/IP 规则），获取方式：
+
+- 复制 [`v2rayn/routing-rules-full.json`](https://raw.githubusercontent.com/chenlee86/rules/main/v2rayn/routing-rules-full.json) 内容，整体粘贴进 v2rayN 路由设置
+- 或在路由设置里「从 Url 导入」，直接填上面的 raw 链接
+
+想调整某个分类范围，改 `convert_singbox_groups.py` 的分组表后依次重新运行 `convert_singbox_groups.py` 和 `build_full_routing.py` 即可同步更新。
