@@ -1,0 +1,10 @@
+# CMLink UK / EE Wi-Fi Calling
+# DOMAIN entries and /32 addresses below were observed during troubleshooting.
+# The broad 46.68.0.0/17 range was supplied by the user; it is not an exhaustive ePDG list.
+DOMAIN,epdg.epc.mnc033.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ee.co.uk
+IP-CIDR,46.68.0.0/17
+IP-CIDR,31.94.76.2/32
+IP-CIDR,31.94.76.5/32
+IP-CIDR,31.94.76.9/32
+IP-CIDR,31.94.76.10/32

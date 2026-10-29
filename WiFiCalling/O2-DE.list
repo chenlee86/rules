@@ -1,0 +1,7 @@
+# O2 Germany Wi-Fi Calling
+# Observed ePDG domain and public gateway addresses; addresses may change.
+# Choose an outbound in the client; this file does not enforce a country.
+DOMAIN,epdg.epc.mnc003.mcc262.pub.3gppnetwork.org
+IP-CIDR,62.52.52.30/32
+IP-CIDR,213.20.31.8/32
+IP-CIDR,213.20.175.56/32
